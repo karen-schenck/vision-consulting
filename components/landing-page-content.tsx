@@ -204,8 +204,8 @@ export function LandingPageContent({ latestPosts = [] }: { latestPosts?: Insight
             <img
               src={assetPath(home.founder.imageSrc)}
               alt={home.founder.imageAlt}
-              width={460}
-              height={576}
+              width={960}
+              height={1200}
               loading="lazy"
               decoding="async"
               className="relative aspect-[4/5] w-full rounded-sm object-cover"
