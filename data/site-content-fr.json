@@ -1,0 +1,853 @@
+{
+  "seo": {
+    "title": "Vision Human Consulting | Conseil en stratégie & performance commerciale à Antibes",
+    "description": "Cabinet de conseil et de formation à Antibes. Audit stratégique, transformation ciblée et formations en performance commerciale. Méthode ODC : Observer, Décoder, Consolider. Plus de 20 ans d'expérience.",
+    "canonical": "https://visionhumanconsulting.com",
+    "keywords": [
+      "cabinet de conseil Antibes",
+      "conseil en stratégie commerciale",
+      "audit stratégique entreprise",
+      "conseil en organisation",
+      "performance commerciale",
+      "formation commerciale immobilier neuf",
+      "formation agence immobilière",
+      "formation stratégie commerciale",
+      "conseil Côte d'Azur",
+      "méthode ODC",
+      "facteur humain performance"
+    ],
+    "openGraph": {
+      "images": [
+        {
+          "url": "/og-vhc.jpg",
+          "width": 1200,
+          "height": 630,
+          "alt": "Vision Human Consulting : monogramme VHC doré sur un mur bleu nuit, lignes dorées fluides"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "robots": {
+      "index": true,
+      "follow": true
+    },
+    "schema": {
+      "breadcrumbs": [],
+      "organization": {
+        "name": "Vision Human Consulting",
+        "legalName": "VEORA REAL ESTATE",
+        "alternateName": "VHC",
+        "slogan": "Révéler l'invisible. Créer l'impact.",
+        "url": "/",
+        "logo": "/icon-512.png",
+        "image": "/og-vhc.jpg",
+        "telephone": "+33-6-84-37-60-62",
+        "email": "contact@visionhumanconsulting.com",
+        "priceRange": "Sur devis",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1180 chemin des Rastines",
+          "addressLocality": "Antibes",
+          "postalCode": "06600",
+          "addressRegion": "Provence-Alpes-Côte d'Azur",
+          "addressCountry": "FR"
+        },
+        "areaServed": ["Antibes", "Alpes-Maritimes", "Côte d'Azur", "France"],
+        "founder": {
+          "@type": "Person",
+          "name": "Karen Schenck",
+          "jobTitle": "Fondatrice"
+        },
+        "sameAs": ["https://www.linkedin.com/company/visionhumanconsulting/"],
+        "knowsAbout": [
+          "Stratégie commerciale",
+          "Performance commerciale",
+          "Audit stratégique",
+          "Organisation",
+          "Management",
+          "Expérience client",
+          "Immobilier neuf",
+          "Formation professionnelle"
+        ]
+      },
+      "website": {
+        "name": "Vision Human Consulting"
+      }
+    }
+  },
+  "header": {
+    "brand": {
+      "name": "Vision Human Consulting",
+      "shortName": "VHC",
+      "tagline": "Révéler l'invisible. Créer l'impact.",
+      "logoAlt": "Vision Human Consulting, conseil & formation à Antibes"
+    },
+    "navLinks": [
+      {
+        "label": "Conseil",
+        "href": "/conseil",
+        "children": [
+          { "label": "Notre approche du conseil", "href": "/conseil" },
+          { "label": "Nos offres", "href": "/offres" },
+          { "label": "Vision · Audit stratégique", "href": "/offres/audit-strategique" },
+          { "label": "Impact · Transformation ciblée", "href": "/offres/transformation-ciblee" },
+          { "label": "Signature · Alignement exécutif", "href": "/offres/alignement-executif" }
+        ]
+      },
+      { "label": "Méthode ODC", "href": "/methodes" },
+      {
+        "label": "Formations",
+        "href": "/formations",
+        "children": [
+          { "label": "Toutes les formations", "href": "/formations" },
+          { "label": "Immobilier neuf", "href": "/formations/immobilier-neuf" },
+          { "label": "Agences immobilières", "href": "/formations/agences-immobilieres" },
+          { "label": "Enseignement supérieur", "href": "/formations/enseignement-superieur" }
+        ]
+      },
+      { "label": "À propos", "href": "/a-propos" },
+      { "label": "Blog", "href": "/blog" }
+    ],
+    "ctaLabel": "Échanger avec nous",
+    "ctaHref": "/contact",
+    "mobileMenu": {
+      "openAriaLabel": "Ouvrir le menu",
+      "closeAriaLabel": "Fermer le menu"
+    }
+  },
+  "footer": {
+    "tagline": "Conseil et formation pour relier stratégie, organisation et facteur humain à la performance commerciale. Basé à Antibes, sur la Côte d'Azur.",
+    "practicalInfo": {
+      "title": "Contact",
+      "address": "Antibes, Alpes-Maritimes",
+      "phone": "06 84 37 60 62",
+      "email": "contact@visionhumanconsulting.com",
+      "linkedinUrl": "https://www.linkedin.com/company/visionhumanconsulting/",
+      "linkedinLabel": "LinkedIn"
+    },
+    "columns": [
+      {
+        "title": "Conseil",
+        "links": [
+          { "label": "Notre approche", "href": "/conseil" },
+          { "label": "Audit stratégique", "href": "/offres/audit-strategique" },
+          { "label": "Transformation ciblée", "href": "/offres/transformation-ciblee" },
+          { "label": "Alignement exécutif", "href": "/offres/alignement-executif" },
+          { "label": "Méthode ODC", "href": "/methodes" }
+        ]
+      },
+      {
+        "title": "Formations",
+        "links": [
+          { "label": "Immobilier neuf", "href": "/formations/immobilier-neuf" },
+          { "label": "Agences immobilières", "href": "/formations/agences-immobilieres" },
+          { "label": "Enseignement supérieur", "href": "/formations/enseignement-superieur" },
+          { "label": "À propos", "href": "/a-propos" },
+          { "label": "Blog", "href": "/blog" }
+        ]
+      }
+    ],
+    "legalLinks": [
+      { "label": "Mentions légales", "href": "/mentions-legales" },
+      { "label": "Confidentialité", "href": "/confidentialite" }
+    ],
+    "copyright": "Vision Human Consulting, VEORA REAL ESTATE. Tous droits réservés."
+  },
+  "common": {
+    "calendlyUrl": "https://calendly.com/karenschenck/echange-decouverte-vhc",
+    "bookCallLabel": "Réserver un échange découverte",
+    "contactLabel": "Nous contacter",
+    "learnMoreLabel": "En savoir plus",
+    "homeLabel": "Accueil",
+    "objectiveLabel": "Objectif",
+    "forWhomLabel": "Pour qui ?",
+    "signalsLabel": "Quand y recourir ?",
+    "processLabel": "Déroulement",
+    "deliverablesLabel": "Ce que vous obtenez",
+    "durationLabel": "Durée",
+    "formatLabel": "Format",
+    "modeLabel": "Modalités",
+    "audienceLabel": "Public",
+    "objectivesLabel": "Objectifs pédagogiques",
+    "programmeLabel": "Programme",
+    "otherOffersLabel": "Les autres niveaux d'intervention",
+    "otherTrainingsLabel": "Les autres formations",
+    "quoteLabel": "Proposition sur mesure",
+    "stepLabel": "Étape",
+    "sourcesLabel": "Sources"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Conseil & formation · Antibes · Côte d'Azur",
+      "title": "Révéler l'invisible. Créer l'impact.",
+      "subtitle": "Vision Human Consulting aide les dirigeants et les équipes commerciales à identifier ce qui freine réellement leur performance (organisation, décisions, pratiques, expérience client) et à transformer ces points de friction en leviers d'action durables.",
+      "primaryCtaLabel": "Réserver un échange découverte",
+      "secondaryCtaLabel": "Découvrir la méthode ODC",
+      "secondaryCtaHref": "/methodes",
+      "trust": [
+        { "value": "+20 ans", "label": "d'expérience terrain" },
+        { "value": "Conseil", "label": "& formation" },
+        { "value": "Présentiel", "label": "ou distanciel" }
+      ],
+      "imageSrc": "/images/vhc-facade.webp",
+      "imageAlt": "Monogramme VHC doré sur un mur bleu nuit, accompagné de lignes dorées fluides, au pied d'un escalier en béton baigné de lumière"
+    },
+    "symptoms": {
+      "eyebrow": "Le constat",
+      "title": "Les symptômes ne sont pas toujours le problème",
+      "description": "Une difficulté commerciale peut révéler un problème d'organisation, de positionnement, de management ou de parcours client. Traiter le symptôme seul déplace le problème ; le comprendre permet de le résoudre.",
+      "items": [
+        {
+          "icon": "trending-down",
+          "title": "Les ventes ralentissent",
+          "text": "Le rythme baisse, le taux de transformation s'érode, et les actions habituelles ne produisent plus les mêmes résultats."
+        },
+        {
+          "icon": "split",
+          "title": "Les équipes ne tirent plus dans le même sens",
+          "text": "Les priorités divergent entre direction, management et terrain. L'énergie se disperse."
+        },
+        {
+          "icon": "route-off",
+          "title": "Les décisions ne se traduisent pas sur le terrain",
+          "text": "La stratégie est claire sur le papier, mais elle ne se retrouve ni dans les pratiques ni dans les résultats."
+        },
+        {
+          "icon": "user-x",
+          "title": "L'expérience client se dégrade",
+          "text": "Les irritants s'accumulent tout au long du parcours, sans qu'on sache précisément où ni pourquoi."
+        }
+      ],
+      "conclusion": "C'est pourquoi nous privilégions une lecture globale de la situation avant de déterminer les actions à engager."
+    },
+    "expertises": {
+      "eyebrow": "Nos expertises",
+      "title": "Deux expertises complémentaires",
+      "items": [
+        {
+          "title": "Conseil",
+          "text": "Analyser les organisations, identifier les points de friction et accompagner les transformations nécessaires à une performance durable.",
+          "points": ["Audit stratégique", "Transformation ciblée", "Alignement exécutif durable"],
+          "ctaLabel": "Découvrir nos offres de conseil",
+          "href": "/conseil",
+          "imageSrc": "/images/conseil-analyse.webp",
+          "imageAlt": "Une consultante échange avec deux dirigeants autour d'une table de réunion couverte de documents d'analyse"
+        },
+        {
+          "title": "Formations",
+          "text": "Transmettre des méthodes et des outils directement applicables pour structurer l'action commerciale, renforcer les compétences et répondre à la réalité du marché.",
+          "points": ["Immobilier neuf", "Agences immobilières", "Enseignement supérieur"],
+          "ctaLabel": "Découvrir nos formations",
+          "href": "/formations",
+          "imageSrc": "/images/formations.webp",
+          "imageAlt": "Une formatrice anime une session devant un groupe de professionnels réunis autour d'une grande table"
+        }
+      ]
+    },
+    "method": {
+      "eyebrow": "Notre approche",
+      "title": "La méthode ODC",
+      "description": "Vision Human Consulting associe analyse stratégique, expérience du terrain et compréhension des dynamiques humaines pour identifier les leviers d'action adaptés à chaque organisation.",
+      "ctaLabel": "Découvrir la méthode ODC",
+      "ctaHref": "/methodes"
+    },
+    "offers": {
+      "eyebrow": "Nos offres de conseil",
+      "title": "Trois niveaux d'intervention selon vos besoins",
+      "description": "Du diagnostic à l'accompagnement de direction, le niveau d'intervention est défini en fonction de vos enjeux et des résultats attendus.",
+      "ctaLabel": "Comparer les offres",
+      "ctaHref": "/offres"
+    },
+    "figures": {
+      "eyebrow": "Quelques chiffres",
+      "title": "Le facteur humain n'est pas un atout « soft », mais un levier stratégique mesurable",
+      "items": [
+        { "value": "+10 à +25 %", "text": "d'efficacité globale lorsque la stratégie humaine et la stratégie business sont alignées." },
+        { "value": "4 à 8 %", "text": "de croissance supplémentaire pour les entreprises qui placent l'humain et le client au centre de leur modèle." },
+        { "value": "+1,3 %", "text": "de satisfaction client peut découler de +5 % d'engagement collaborateur." }
+      ],
+      "sources": "Sources : Boston Consulting Group · Martin Newman · Deloitte · Fujitsu"
+    },
+    "whyUs": {
+      "eyebrow": "Pourquoi nous choisir ?",
+      "title": "Une lecture transversale, une exécution concrète",
+      "items": [
+        { "icon": "award", "title": "+ 20 ans d'expérience", "text": "Stratégie commerciale, marketing, management et expérience client." },
+        { "icon": "target", "title": "Une expertise opérationnelle", "text": "Objectifs clairs, recommandations applicables et indicateurs de suivi." },
+        { "icon": "network", "title": "Une vision transversale", "text": "Relier stratégie, organisation, humain et performance plutôt que traiter chaque enjeu séparément." }
+      ]
+    },
+    "sectors": {
+      "eyebrow": "Pour qui ?",
+      "title": "Des interventions ancrées dans la réalité de votre marché",
+      "items": [
+        { "icon": "building-2", "title": "Promotion immobilière", "text": "Équipes commerciales de programmes neufs, du lancement à l'écoulement des derniers lots.", "href": "/formations/immobilier-neuf" },
+        { "icon": "store", "title": "Agences immobilières", "text": "Différenciation, prospection et développement commercial dans un marché exigeant.", "href": "/formations/agences-immobilieres" },
+        { "icon": "graduation-cap", "title": "Enseignement supérieur", "text": "Écoles et filières commerce, vente et marketing, du BTS au Master.", "href": "/formations/enseignement-superieur" },
+        { "icon": "briefcase", "title": "Directions & PME", "text": "Dirigeants confrontés à des enjeux de gouvernance, d'organisation ou de transformation.", "href": "/offres" }
+      ]
+    },
+    "founder": {
+      "eyebrow": "La fondatrice",
+      "name": "Karen Schenck",
+      "role": "Fondatrice de Vision Human Consulting",
+      "text": "Après plus de vingt ans en stratégie commerciale, marketing, management et expérience client, Karen Schenck a fondé Vision Human Consulting avec une conviction : la performance d'une entreprise repose sur la cohérence entre sa stratégie, ses décisions et ses pratiques. Et le facteur humain en est le levier le plus sous-estimé.",
+      "ctaLabel": "En savoir plus",
+      "ctaHref": "/a-propos"
+    },
+    "faq": {
+      "eyebrow": "Questions fréquentes",
+      "title": "Ce que l'on nous demande souvent",
+      "items": [
+        {
+          "question": "Quelle est la différence entre vos missions de conseil et vos formations ?",
+          "answer": "Le conseil répond à une situation propre à votre entreprise : nous analysons votre organisation, identifions les points de friction et accompagnons les changements. La formation transmet à vos équipes des méthodes et des outils directement applicables sur un thème précis, comme la performance commerciale en immobilier neuf ou le développement d'une agence."
+        },
+        {
+          "question": "Qu'est-ce que la méthode ODC ?",
+          "answer": "ODC signifie Observer, Décoder, Consolider. C'est la méthode qui structure chacune de nos missions : observer la situation telle qu'elle est vécue, décoder les causes et les interactions entre les constats, puis consolider des orientations concrètes et hiérarchisées, avec des indicateurs de suivi."
+        },
+        {
+          "question": "Combien de temps dure une mission ?",
+          "answer": "Cela dépend du niveau d'intervention. L'audit stratégique est dimensionné selon le périmètre analysé. La transformation ciblée est un accompagnement de deux semaines. L'alignement exécutif durable est construit sur mesure avec la direction. La durée est toujours fixée avant le démarrage."
+        },
+        {
+          "question": "Faut-il commencer par un audit ?",
+          "answer": "La transformation ciblée s'appuie sur les constats d'un audit. C'est le point de départ le plus sûr pour agir sur les bons leviers. Lors du premier échange, nous déterminons ensemble le niveau d'intervention le plus adapté à votre situation."
+        },
+        {
+          "question": "Vos formations peuvent-elles être adaptées à notre entreprise ?",
+          "answer": "Oui. Les formations immobilier neuf et agences immobilières se déroulent sur une journée de 7 heures, en présentiel ou à distance, en intra-entreprise (et en inter-entreprises pour les agences). La formation destinée à l'enseignement supérieur est construite selon les besoins de l'établissement."
+        },
+        {
+          "question": "Comment se déroule le premier échange ?",
+          "answer": "Vous réservez un créneau en ligne ou nous contactez par e-mail ou téléphone. Ce premier échange, sans engagement, permet de comprendre votre contexte et vos enjeux, puis de vous proposer le format d'accompagnement le plus pertinent."
+        }
+      ]
+    },
+    "blog": {
+      "eyebrow": "Analyses & insights",
+      "title": "Comprendre avant d'agir",
+      "ctaLabel": "Tous les articles",
+      "ctaHref": "/blog",
+      "readLabel": "Lire l'article"
+    },
+    "booking": {
+      "eyebrow": "Premier pas",
+      "title": "Parlons de vos enjeux",
+      "description": "Un premier échange, sans engagement, pour comprendre votre situation et identifier le niveau d'intervention le plus adapté : mission de conseil ou formation.",
+      "ctaLabel": "Réserver un échange découverte",
+      "secondaryCtaLabel": "Écrire un message",
+      "secondaryCtaHref": "/contact"
+    }
+  },
+  "consultingPage": {
+    "metadata": {
+      "title": "Conseil en stratégie, organisation et performance commerciale | Vision Human Consulting",
+      "description": "Comprendre les enjeux, identifier les leviers, structurer l'action. Vision Human Consulting analyse votre organisation dans sa globalité pour définir des solutions adaptées à la réalité de votre entreprise."
+    },
+    "badge": "Le conseil",
+    "title": "Comprendre les enjeux. Identifier les leviers. Structurer l'action.",
+    "intro": "Une problématique d'entreprise ne se résume pas toujours à un seul sujet. Une difficulté commerciale peut révéler un problème d'organisation, de positionnement, de management ou encore de parcours client.",
+    "imageSrc": "/images/conseil-analyse.webp",
+    "imageAlt": "Une consultante échange avec deux dirigeants autour d'une table de réunion couverte de documents d'analyse",
+    "globalReading": {
+      "title": "Une lecture globale avant toute action",
+      "paragraphs": [
+        "C'est pourquoi Vision Human Consulting privilégie une lecture globale de la situation avant de déterminer les actions à engager.",
+        "L'objectif : comprendre précisément la situation, hiérarchiser les priorités et définir des solutions adaptées à la réalité de l'entreprise, plutôt que d'appliquer une recette standard."
+      ]
+    },
+    "dimensions": {
+      "title": "Les dimensions que nous relions",
+      "items": [
+        { "icon": "compass", "title": "Stratégie & positionnement", "text": "Votre intention stratégique est-elle claire, partagée et traduite dans l'offre ?" },
+        { "icon": "workflow", "title": "Organisation & décisions", "text": "Les rôles, les processus et la circulation de l'information servent-ils la stratégie ?" },
+        { "icon": "users", "title": "Management & équipes", "text": "Les équipes disposent-elles des repères, des moyens et de l'engagement nécessaires ?" },
+        { "icon": "handshake", "title": "Pratiques commerciales", "text": "Prospection, transformation, suivi : où se perd la performance ?" },
+        { "icon": "heart-handshake", "title": "Expérience client", "text": "Le parcours client tient-il la promesse faite au moment de la vente ?" }
+      ]
+    },
+    "method": {
+      "title": "Une méthode pour structurer l'intervention",
+      "text": "De l'observation de la situation jusqu'à la consolidation des orientations retenues, la méthode ODC (Observer, Décoder, Consolider) structure les différentes étapes de la mission.",
+      "ctaLabel": "Découvrir la méthode",
+      "ctaHref": "/methodes"
+    },
+    "levels": {
+      "title": "Plusieurs niveaux d'accompagnement",
+      "text": "Audit stratégique, transformation ciblée ou accompagnement sur mesure : le niveau d'intervention est défini en fonction des enjeux de l'entreprise et des résultats attendus.",
+      "ctaLabel": "Découvrir les offres",
+      "ctaHref": "/offres"
+    }
+  },
+  "offersPage": {
+    "metadata": {
+      "title": "Nos offres de conseil : audit, transformation, alignement exécutif | Vision Human Consulting",
+      "description": "Trois niveaux d'intervention : Vision (audit stratégique), Impact (transformation ciblée en 2 semaines) et Signature (alignement exécutif durable). Choisissez l'accompagnement adapté à vos enjeux."
+    },
+    "badge": "Nos offres de conseil",
+    "title": "Trois niveaux d'intervention selon vos besoins",
+    "intro": "Chaque offre répond à un niveau d'enjeu différent. Elles peuvent s'enchaîner : l'audit révèle, la transformation agit, l'alignement inscrit les changements dans la durée.",
+    "offers": [
+      {
+        "slug": "audit-strategique",
+        "tier": "Vision",
+        "title": "Audit stratégique",
+        "tagline": "Mettre en évidence les écarts critiques entre intention stratégique et réalité organisationnelle.",
+        "summary": "Un audit structuré destiné à mettre en évidence les écarts critiques entre intention stratégique et réalité organisationnelle.",
+        "objective": "Identifier les dysfonctionnements qui freinent l'organisation, les décisions, les pratiques commerciales et l'expérience client.",
+        "duration": "Selon le périmètre",
+        "signals": [
+          "Les résultats ne sont plus à la hauteur des objectifs, sans cause évidente.",
+          "Les décisions prises en direction ne se retrouvent pas sur le terrain.",
+          "Vous souhaitez un regard extérieur avant d'engager une réorganisation ou un plan d'action.",
+          "Les irritants clients ou internes se multiplient."
+        ],
+        "process": [
+          { "title": "Observer", "text": "Entretiens avec la direction et les équipes, observation des pratiques, analyse des documents et des indicateurs existants." },
+          { "title": "Décoder", "text": "Mise en relation des constats pour distinguer les causes des symptômes et identifier les écarts critiques." },
+          { "title": "Consolider", "text": "Restitution structurée, priorités hiérarchisées et recommandations directement applicables." }
+        ],
+        "deliverables": [
+          "Une cartographie des écarts entre stratégie et réalité opérationnelle",
+          "Les dysfonctionnements prioritaires et leurs causes",
+          "Des recommandations hiérarchisées et applicables",
+          "Une restitution à la direction"
+        ],
+        "metadata": {
+          "title": "Audit stratégique d'entreprise, offre Vision | Vision Human Consulting",
+          "description": "Un audit structuré pour révéler les écarts entre intention stratégique et réalité organisationnelle : organisation, décisions, pratiques commerciales, expérience client. Antibes, Côte d'Azur."
+        }
+      },
+      {
+        "slug": "transformation-ciblee",
+        "tier": "Impact",
+        "title": "Transformation ciblée",
+        "tagline": "Transformer les constats de l'audit en actions concrètes, en deux semaines.",
+        "summary": "Un accompagnement de 2 semaines pour transformer les constats issus de l'audit en actions concrètes et directement applicables.",
+        "objective": "Agir sur les points de blocage identifiés, clarifier les priorités et mettre en œuvre les changements nécessaires pour une amélioration durable du fonctionnement de l'organisation.",
+        "duration": "2 semaines",
+        "signals": [
+          "Un audit a mis en évidence des points de blocage précis.",
+          "Vous savez ce qui doit changer, mais la mise en œuvre tarde.",
+          "Les équipes ont besoin d'un cadre pour passer à l'action.",
+          "Vous voulez des résultats visibles rapidement, sur un périmètre défini."
+        ],
+        "process": [
+          { "title": "Cadrer", "text": "Validation des priorités issues de l'audit et des résultats attendus." },
+          { "title": "Agir", "text": "Mise en œuvre des changements avec les équipes concernées : organisation, pratiques, outils." },
+          { "title": "Ancrer", "text": "Indicateurs de suivi et points de contrôle pour une amélioration durable." }
+        ],
+        "deliverables": [
+          "Un plan d'action priorisé et partagé",
+          "Les premiers changements mis en œuvre sur le terrain",
+          "Des indicateurs de suivi",
+          "Un bilan de fin d'accompagnement"
+        ],
+        "metadata": {
+          "title": "Transformation ciblée en 2 semaines, offre Impact | Vision Human Consulting",
+          "description": "Deux semaines pour transformer les constats d'un audit en actions concrètes : lever les points de blocage, clarifier les priorités et ancrer le changement dans l'organisation."
+        }
+      },
+      {
+        "slug": "alignement-executif",
+        "tier": "Signature",
+        "title": "Alignement exécutif durable",
+        "tagline": "Accompagner les directions face aux enjeux complexes de gouvernance, d'organisation ou de transformation.",
+        "summary": "Une intervention sur mesure destinée aux directions confrontées à des enjeux complexes de gouvernance, d'organisation ou de transformation.",
+        "objective": "Aligner les décisions, structurer les actions nécessaires et inscrire les changements dans la durée.",
+        "duration": "Sur mesure",
+        "signals": [
+          "La direction doit conduire une transformation d'envergure.",
+          "Les enjeux de gouvernance ou d'organisation dépassent un seul service.",
+          "Les décisions manquent d'alignement au sein du comité de direction.",
+          "Vous recherchez un accompagnement dans la durée plutôt qu'une intervention ponctuelle."
+        ],
+        "process": [
+          { "title": "Comprendre", "text": "Lecture approfondie des enjeux de gouvernance, d'organisation et de transformation avec la direction." },
+          { "title": "Aligner", "text": "Construction d'une vision partagée et de décisions cohérentes au sein de l'équipe dirigeante." },
+          { "title": "Inscrire dans la durée", "text": "Structuration des actions et suivi régulier pour que les changements tiennent." }
+        ],
+        "deliverables": [
+          "Un dispositif d'accompagnement construit avec la direction",
+          "Des décisions alignées et une feuille de route structurée",
+          "Un suivi dans la durée",
+          "Un interlocuteur unique et un regard extérieur indépendant"
+        ],
+        "metadata": {
+          "title": "Alignement exécutif et accompagnement de direction, offre Signature | Vision Human Consulting",
+          "description": "Une intervention sur mesure pour les directions confrontées à des enjeux complexes de gouvernance, d'organisation ou de transformation : aligner les décisions et inscrire le changement dans la durée."
+        }
+      }
+    ]
+  },
+  "methodPage": {
+    "metadata": {
+      "title": "La méthode ODC : Observer, Décoder, Consolider | Vision Human Consulting",
+      "description": "Une approche concrète et transversale pour analyser conjointement stratégie, décisions et pratiques, identifier les écarts et déterminer les leviers d'action les plus pertinents."
+    },
+    "badge": "Notre méthode",
+    "title": "Une approche concrète et transversale",
+    "intro": "La performance d'une entreprise repose notamment sur la cohérence entre sa stratégie, ses décisions et ses pratiques. Lorsque cette cohérence se fragilise, elle peut rapidement affecter le fonctionnement et les résultats d'une organisation.",
+    "paragraphs": [
+      "La méthode ODC permet d'analyser conjointement les différentes dimensions qui influencent l'activité d'une société, afin d'identifier les écarts, de comprendre leurs interactions et de déterminer les leviers d'action les plus pertinents.",
+      "L'ODC met en relation les différents constats issus de l'analyse afin d'en comprendre les causes et les conséquences. Cette démarche permet de hiérarchiser les besoins et de construire des réponses concrètes, adaptées aux problématiques identifiées."
+    ],
+    "steps": [
+      {
+        "letter": "O",
+        "title": "Observer",
+        "summary": "Voir la situation telle qu'elle est vécue, pas telle qu'elle est décrite.",
+        "points": [
+          "Entretiens avec la direction, le management et le terrain",
+          "Observation des pratiques et du parcours client",
+          "Analyse des indicateurs et documents existants"
+        ]
+      },
+      {
+        "letter": "D",
+        "title": "Décoder",
+        "summary": "Relier les constats pour distinguer les causes des symptômes.",
+        "points": [
+          "Mise en relation des constats entre eux",
+          "Identification des écarts et de leurs interactions",
+          "Hiérarchisation des besoins"
+        ]
+      },
+      {
+        "letter": "C",
+        "title": "Consolider",
+        "summary": "Transformer la compréhension en orientations concrètes et durables.",
+        "points": [
+          "Recommandations applicables et priorisées",
+          "Objectifs clairs et indicateurs de suivi",
+          "Accompagnement de la mise en œuvre si nécessaire"
+        ]
+      }
+    ],
+    "figuresTitle": "Quelques chiffres",
+    "figuresIntro": "Des études internationales confirment l'impact concret des approches centrées sur l'humain :"
+  },
+  "trainingsPage": {
+    "metadata": {
+      "title": "Formations en performance commerciale : immobilier neuf, agences, enseignement supérieur | Vision Human Consulting",
+      "description": "Des formations ancrées dans la réalité du terrain : performance commerciale en immobilier neuf, développement des agences immobilières, stratégie commerciale pour l'enseignement supérieur. Présentiel ou distanciel."
+    },
+    "badge": "Formations",
+    "title": "Des formations ancrées dans la réalité du terrain",
+    "intro": "Vision Human Consulting conçoit des formations centrées sur les enjeux de développement et de performance commerciale, avec des méthodes et des outils directement mobilisables dans la pratique professionnelle.",
+    "imageSrc": "/images/formations.webp",
+    "imageAlt": "Une formatrice anime une session devant un groupe de professionnels réunis autour d'une grande table",
+    "ctaTitle": "Vous souhaitez organiser une formation ou obtenir une proposition adaptée à vos besoins ?",
+    "trainings": [
+      {
+        "slug": "immobilier-neuf",
+        "sector": "Immobilier neuf",
+        "title": "Performance commerciale en immobilier neuf",
+        "subtitle": "Optimiser la commercialisation d'un programme, du lancement à l'écoulement des derniers lots.",
+        "summary": "Une formation destinée aux équipes commerciales de la promotion immobilière pour mieux analyser les résultats, renforcer le taux de transformation et identifier les leviers d'action lorsque le rythme des ventes ralentit.",
+        "audience": "Équipes commerciales et responsables des ventes de la promotion immobilière.",
+        "facts": [
+          { "label": "Durée", "value": "1 journée, 7 h" },
+          { "label": "Format", "value": "Intra-entreprise" },
+          { "label": "Modalités", "value": "Présentiel ou distanciel" }
+        ],
+        "objectives": [
+          "Analyser les résultats de commercialisation d'un programme",
+          "Renforcer le taux de transformation",
+          "Identifier les leviers d'action lorsque le rythme des ventes ralentit",
+          "Sécuriser l'écoulement des derniers lots"
+        ],
+        "programme": [
+          { "title": "Lire les résultats d'un programme", "text": "Les indicateurs qui comptent, du lancement à la fin de commercialisation." },
+          { "title": "Du contact à la réservation", "text": "Repérer où se perd la transformation dans le parcours de l'acquéreur." },
+          { "title": "Quand le rythme ralentit", "text": "Diagnostiquer les causes et choisir les leviers avant d'agir sur le prix." },
+          { "title": "Les derniers lots", "text": "Construire un plan d'action ciblé pour finaliser la commercialisation." }
+        ],
+        "metadata": {
+          "title": "Formation performance commerciale en immobilier neuf | Vision Human Consulting",
+          "description": "Formation d'une journée (7 h) pour les équipes commerciales de la promotion immobilière : analyser les résultats, renforcer la transformation et relancer un programme dont les ventes ralentissent. Intra-entreprise, présentiel ou distanciel."
+        }
+      },
+      {
+        "slug": "agences-immobilieres",
+        "sector": "Agences immobilières",
+        "title": "Pourquoi votre agence plutôt qu'une autre ?",
+        "subtitle": "Se différencier, créer ses propres opportunités et développer son activité.",
+        "summary": "Une formation destinée aux professionnels de l'immobilier pour repenser leur développement commercial dans un marché où la visibilité et la prospection traditionnelles ne suffisent plus.",
+        "audience": "Dirigeants d'agence, négociateurs et conseillers immobiliers.",
+        "facts": [
+          { "label": "Durée", "value": "1 journée, 7 h" },
+          { "label": "Format", "value": "Inter ou intra-entreprise" },
+          { "label": "Modalités", "value": "Présentiel ou distanciel" }
+        ],
+        "objectives": [
+          "Clarifier ce qui différencie l'agence sur son marché",
+          "Créer ses propres opportunités au-delà de la prospection traditionnelle",
+          "Structurer un plan de développement commercial",
+          "Renforcer la valeur perçue par les clients vendeurs et acquéreurs"
+        ],
+        "programme": [
+          { "title": "Le marché a changé", "text": "Pourquoi la visibilité et la prospection traditionnelles ne suffisent plus." },
+          { "title": "Votre différence", "text": "Formuler une proposition de valeur claire et crédible." },
+          { "title": "Créer ses opportunités", "text": "Réseau, recommandation, présence locale : des sources d'affaires durables." },
+          { "title": "Passer à l'action", "text": "Un plan de développement concret, adapté à l'agence." }
+        ],
+        "metadata": {
+          "title": "Formation agence immobilière : se différencier et développer son activité | Vision Human Consulting",
+          "description": "Formation d'une journée (7 h) pour les agences immobilières : se différencier, créer ses propres opportunités et développer son activité. Inter ou intra-entreprise, présentiel ou distanciel."
+        }
+      },
+      {
+        "slug": "enseignement-superieur",
+        "sector": "Enseignement supérieur",
+        "title": "Stratégie & performance commerciale",
+        "subtitle": "De l'analyse du marché au pilotage de l'action commerciale.",
+        "summary": "Une formation destinée aux étudiants en commerce, vente et marketing, du BTS au Master, pour relier les fondamentaux de la stratégie aux réalités de l'entreprise et développer leur capacité à analyser, décider et agir.",
+        "audience": "Étudiants en commerce, vente et marketing, du BTS au Master.",
+        "facts": [
+          { "label": "Durée", "value": "Selon les besoins de l'établissement" },
+          { "label": "Format", "value": "Construit avec l'établissement" },
+          { "label": "Modalités", "value": "Présentiel ou distanciel" }
+        ],
+        "objectives": [
+          "Relier les fondamentaux de la stratégie aux réalités de l'entreprise",
+          "Analyser un marché et un positionnement",
+          "Décider et prioriser des actions commerciales",
+          "Piloter l'action commerciale avec des indicateurs"
+        ],
+        "programme": [
+          { "title": "Analyser le marché", "text": "Clients, concurrence, environnement : les outils de lecture." },
+          { "title": "Construire une stratégie", "text": "Positionnement, cibles et proposition de valeur." },
+          { "title": "Décliner en action commerciale", "text": "De la stratégie au plan d'action opérationnel." },
+          { "title": "Piloter la performance", "text": "Indicateurs, suivi et ajustements à partir de cas concrets." }
+        ],
+        "metadata": {
+          "title": "Formation stratégie et performance commerciale pour l'enseignement supérieur | Vision Human Consulting",
+          "description": "Une intervention pour les écoles et filières commerce, vente et marketing (BTS au Master) : de l'analyse du marché au pilotage de l'action commerciale. Format construit avec l'établissement."
+        }
+      }
+    ]
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "À propos de Karen Schenck, fondatrice | Vision Human Consulting",
+      "description": "Vision Human Consulting a été fondé par Karen Schenck après plus de vingt ans en stratégie commerciale, marketing, management et expérience client. Découvrez nos convictions et notre façon de travailler."
+    },
+    "badge": "À propos",
+    "title": "Relier la stratégie, l'organisation et l'humain",
+    "intro": "Vision Human Consulting est un cabinet de conseil et de formation basé à Antibes. Il accompagne dirigeants, équipes commerciales et établissements d'enseignement dans leurs enjeux de développement et de performance.",
+    "imageSrc": "/images/conseil-equipe.webp",
+    "imageAlt": "Trois professionnels analysent des documents autour d'une table, devant un mur bleu nuit portant les mots Vision, Analyse, Alignement, Performance",
+    "founder": {
+      "title": "La fondatrice",
+      "name": "Karen Schenck",
+      "paragraphs": [
+        "Karen Schenck a consacré plus de vingt ans à la stratégie commerciale, au marketing, au management et à l'expérience client. Une expérience de terrain qui lui a appris à reconnaître ce que les tableaux de bord ne montrent pas : les écarts entre ce qui est décidé et ce qui est réellement vécu dans l'organisation.",
+        "Elle a fondé Vision Human Consulting pour mettre cette lecture transversale au service des entreprises, avec une méthode, l'ODC, et une exigence : des recommandations applicables, des objectifs clairs et des indicateurs de suivi."
+      ]
+    },
+    "values": {
+      "title": "Nos convictions",
+      "items": [
+        { "title": "Comprendre avant d'agir", "text": "Une lecture globale de la situation précède toujours la recommandation." },
+        { "title": "L'humain est un levier mesurable", "text": "Le facteur humain n'est pas un atout « soft » : il pèse directement sur l'efficacité, la croissance et la satisfaction client." },
+        { "title": "Du concret, pas du rapport", "text": "Des recommandations applicables, des priorités claires et des indicateurs de suivi." },
+        { "title": "Du sur-mesure", "text": "Chaque intervention est construite à partir de la réalité de l'entreprise, pas d'un modèle standard." }
+      ]
+    },
+    "name": {
+      "title": "Révéler l'invisible. Créer l'impact.",
+      "text": "Ce qui freine une organisation est rarement visible de l'intérieur. Notre rôle est de le rendre visible, puis d'en faire un levier d'action."
+    }
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contact : échanger sur votre projet | Vision Human Consulting",
+      "description": "Une mission de conseil, une formation ou une question ? Réservez un échange découverte ou contactez Vision Human Consulting par formulaire, e-mail (contact@visionhumanconsulting.com) ou téléphone (06 84 37 60 62)."
+    },
+    "badge": "Contact",
+    "title": "Contactez-nous",
+    "intro": "Vous souhaitez échanger sur une mission de conseil, organiser une formation ou obtenir des informations supplémentaires ? Contactez-nous via le formulaire ci-dessous, réservez directement un échange, ou écrivez-nous par e-mail.",
+    "booking": {
+      "title": "Réserver un échange découverte",
+      "description": "Choisissez le créneau qui vous convient. Un premier échange sans engagement pour comprendre vos enjeux."
+    },
+    "form": {
+      "title": "Formulaire de contact",
+      "nameLabel": "Nom / prénom",
+      "companyLabel": "Entreprise / établissement",
+      "emailLabel": "E-mail",
+      "phoneLabel": "Téléphone",
+      "subjectLabel": "Votre demande concerne",
+      "subjects": ["Une mission de conseil", "Une formation", "Autre demande"],
+      "messageLabel": "Message",
+      "messagePlaceholder": "Décrivez en quelques lignes votre contexte et vos enjeux.",
+      "requiredHint": "Champs obligatoires",
+      "submitLabel": "Envoyer votre demande",
+      "sendingLabel": "Envoi en cours…",
+      "successTitle": "Merci, votre message a bien été envoyé.",
+      "successText": "Nous revenons vers vous dans les meilleurs délais.",
+      "errorText": "L'envoi n'a pas pu aboutir. Vous pouvez nous écrire directement à",
+      "consent": "Les informations recueillies via ce formulaire sont utilisées uniquement pour répondre à votre demande et assurer le suivi des échanges avec Vision Human Consulting. Vous pouvez exercer vos droits d'accès, de rectification, d'effacement, de limitation ou d'opposition en écrivant à contact@visionhumanconsulting.com."
+    },
+    "coordinatesTitle": "Coordonnées",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone",
+    "linkedinLabel": "LinkedIn",
+    "linkedinHandle": "@VisionHumanConsulting",
+    "addressLabel": "Basé à"
+  },
+  "cookieConsent": {
+    "storageKey": "vhc-cookie-consent:v1",
+    "badge": "Respect de votre vie privée",
+    "badgeDescription": "Vous choisissez ce qui est mesuré.",
+    "title": "Préférences de cookies",
+    "description": "Les cookies essentiels font fonctionner le site. Vous pouvez activer les cookies de mesure d'audience pour nous aider à l'améliorer. Modifiable à tout moment.",
+    "toggles": {
+      "essential": {
+        "title": "Essentiels",
+        "description": "Nécessaires au fonctionnement du site (langue, préférences).",
+        "alwaysOnLabel": "Toujours actifs",
+        "requiredLabel": "Requis"
+      },
+      "analytics": {
+        "title": "Mesure d'audience",
+        "description": "Mesure les visites et la performance via Google Analytics."
+      },
+      "ariaLabelPrefix": "Activer"
+    },
+    "footer": {
+      "localStorageCopy": "Vos préférences sont stockées localement dans votre navigateur.",
+      "readMoreCopy": "En savoir plus dans la",
+      "privacyPolicyLabel": "politique de confidentialité"
+    },
+    "buttons": {
+      "essentialOnly": "Essentiels uniquement",
+      "selectPreferences": "Choisir",
+      "saveSelection": "Enregistrer",
+      "acceptAll": "Tout accepter"
+    }
+  },
+  "privacyPage": {
+    "metadata": {
+      "title": "Politique de confidentialité | Vision Human Consulting",
+      "description": "Comment Vision Human Consulting (VEORA REAL ESTATE) traite les données personnelles transmises via le site, le formulaire de contact et la prise de rendez-vous."
+    },
+    "badge": "Confidentialité",
+    "title": "Politique de confidentialité",
+    "intro": "La collecte de données est limitée à ce qui est nécessaire pour répondre à vos demandes et, si vous l'acceptez, mesurer l'audience du site.",
+    "lastUpdatedLabel": "Dernière mise à jour",
+    "lastUpdatedDate": "2026-10-11",
+    "backToHomepageLabel": "Retour à l'accueil",
+    "email": "contact@visionhumanconsulting.com",
+    "sections": {
+      "controller": {
+        "title": "Responsable du traitement",
+        "intro": "Le responsable du traitement est VEORA REAL ESTATE, EURL exploitant l'activité sous le nom commercial Vision Human Consulting, 1180 chemin des Rastines, 06600 Antibes. Contact : contact@visionhumanconsulting.com."
+      },
+      "informationCollected": {
+        "title": "Informations collectées",
+        "intro": "Seules les informations que vous transmettez volontairement sont collectées.",
+        "bullets": [
+          { "label": "Formulaire de contact :", "text": "nom, entreprise, e-mail, téléphone, objet et message." },
+          { "label": "Prise de rendez-vous :", "text": "nom, e-mail et informations transmises via Calendly pour organiser l'échange." },
+          { "label": "Mesure d'audience :", "text": "données de fréquentation agrégées, uniquement si vous l'activez." }
+        ]
+      },
+      "usage": {
+        "title": "Finalités",
+        "bullets": [
+          "Répondre aux demandes adressées à Vision Human Consulting.",
+          "Assurer le suivi des échanges et de la relation commerciale.",
+          "Comprendre la fréquentation globale du site et l'améliorer."
+        ]
+      },
+      "retention": {
+        "title": "Durée de conservation",
+        "intro": "Les données sont conservées pendant une durée n'excédant pas celle nécessaire aux finalités pour lesquelles elles ont été collectées, sous réserve des obligations légales de conservation applicables."
+      },
+      "sharing": {
+        "title": "Partage et droits",
+        "bullets": [
+          "Les données sont accessibles uniquement aux personnes et prestataires habilités (hébergement, formulaire, prise de rendez-vous, mesure d'audience).",
+          "Aucune donnée personnelle n'est vendue à des tiers.",
+          "Conformément au RGPD et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et, le cas échéant, de portabilité, à exercer auprès de contact@visionhumanconsulting.com.",
+          "Vous pouvez introduire une réclamation auprès de la CNIL."
+        ]
+      }
+    }
+  },
+  "termsPage": {
+    "metadata": {
+      "title": "Mentions légales | Vision Human Consulting",
+      "description": "Mentions légales du site visionhumanconsulting.com, édité par VEORA REAL ESTATE (Vision Human Consulting), Antibes."
+    },
+    "badge": "Mentions légales",
+    "title": "Mentions légales",
+    "intro": "Informations légales relatives au site visionhumanconsulting.com et à son éditeur.",
+    "lastUpdatedLabel": "Dernière mise à jour",
+    "lastUpdatedDate": "2026-10-11",
+    "backToHomepageLabel": "Retour à l'accueil",
+    "email": "contact@visionhumanconsulting.com",
+    "sections": [
+      {
+        "title": "1. Éditeur du site",
+        "paragraphs": [
+          "Le site visionhumanconsulting.com est édité par VEORA REAL ESTATE, EURL – Entreprise unipersonnelle à responsabilité limitée au capital social de 200 €.",
+          "Siège social : 1180 chemin des Rastines – 06600 Antibes – France. SIREN : 107 361 677. SIRET : 107 361 677 00019. RCS Antibes : 107 361 677. N° de TVA intracommunautaire : FR35 107361677.",
+          "Nom commercial : Vision Human Consulting. Téléphone : 06 84 37 60 62. E-mail : contact@visionhumanconsulting.com.",
+          "La directrice de la publication est Karen Schenck, en sa qualité de gérante de VEORA REAL ESTATE."
+        ]
+      },
+      {
+        "title": "2. Hébergement",
+        "paragraphs": [
+          "Le site est hébergé par : OVH SAS, 2 rue Kellermann, 59100 Roubaix – France. Téléphone : 1007."
+        ]
+      },
+      {
+        "title": "3. Propriété intellectuelle",
+        "paragraphs": [
+          "L'ensemble des contenus présents sur le site visionhumanconsulting.com, notamment les textes, éléments graphiques, logo, photographies, illustrations et documents téléchargeables, est protégé par les dispositions applicables en matière de propriété intellectuelle.",
+          "Toute reproduction, représentation, modification, adaptation ou exploitation, totale ou partielle, de ces contenus sans autorisation préalable et écrite de VEORA REAL ESTATE est interdite, sous réserve des exceptions prévues par la législation applicable."
+        ]
+      },
+      {
+        "title": "4. Responsabilité",
+        "paragraphs": [
+          "Les informations diffusées sur le site ont pour objet de présenter les activités et services proposés par Vision Human Consulting. VEORA REAL ESTATE s'efforce d'assurer l'exactitude et la mise à jour des informations publiées. Elle ne peut toutefois garantir l'absence d'erreurs, d'omissions ou d'indisponibilités temporaires du site.",
+          "Les informations présentées sur ce site sont fournies à titre informatif et ne sauraient se substituer à une analyse ou à un conseil adapté à la situation particulière d'une entreprise ou d'une organisation."
+        ]
+      },
+      {
+        "title": "5. Protection des données personnelles",
+        "paragraphs": [
+          "Le responsable du traitement est VEORA REAL ESTATE, exploitant l'activité sous le nom commercial Vision Human Consulting. Les données recueillies sont utilisées afin de répondre aux demandes adressées à Vision Human Consulting et d'assurer le suivi des échanges et de la relation commerciale. Elles ne sont pas vendues à des tiers.",
+          "Conformément au RGPD et à la loi Informatique et Libertés, toute personne dispose d'un droit d'accès, de rectification, d'effacement, de limitation et d'opposition au traitement de ses données ainsi que, lorsqu'il est applicable, d'un droit à la portabilité, à exercer en écrivant à contact@visionhumanconsulting.com. Toute personne dispose également du droit d'introduire une réclamation auprès de la CNIL. Voir aussi la politique de confidentialité."
+        ]
+      },
+      {
+        "title": "6. Cookies",
+        "paragraphs": [
+          "Le site peut utiliser des cookies ou autres traceurs nécessaires à son fonctionnement ainsi que, le cas échéant, des outils de mesure d'audience. Les cookies non strictement nécessaires ne sont déposés qu'après obtention du consentement de l'utilisateur, qui peut accepter, refuser ou modifier ses choix via l'outil de gestion des cookies disponible sur le site."
+        ]
+      },
+      {
+        "title": "7. Liens hypertextes",
+        "paragraphs": [
+          "Le site peut contenir des liens vers des sites ou ressources externes. VEORA REAL ESTATE n'exerce aucun contrôle sur leur contenu et ne peut être tenue responsable des informations, contenus ou services proposés par ces sites tiers."
+        ]
+      },
+      {
+        "title": "8. Droit applicable",
+        "paragraphs": [
+          "Le site visionhumanconsulting.com et les présentes mentions légales sont soumis au droit français."
+        ]
+      }
+    ]
+  }
+}

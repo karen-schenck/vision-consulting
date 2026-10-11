@@ -1,0 +1,408 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+/* Vision Human Consulting — Conseil & formation, Antibes
+   "Navy & gold editorial": ink-navy feature bands, ivory reading surfaces,
+   one gold accent drawn from the logo, near-square corners and hairline
+   rules. The flowing gold lines of the brand mark are the only ornament.
+   Single light identity — the navy bands already give the page its contrast. */
+:root {
+  --background: #FAF8F3; /* Ivoire — reading surface */
+  --foreground: #1A2236; /* Ink — body copy */
+  --card: #FFFFFF;
+  --card-foreground: #1A2236;
+  --popover: #FFFFFF;
+  --popover-foreground: #1A2236;
+  --primary: #1B2A4A; /* Navy — primary actions, feature bands */
+  --primary-foreground: #FAF8F3;
+  --secondary: #E9E4DA; /* Stone */
+  --secondary-foreground: #1A2236;
+  --muted: #F1EEE7;
+  --muted-foreground: #5F6677;
+  --accent: #A8872F; /* Gold, darkened for text on ivory (AA) */
+  --accent-foreground: #0F1B33;
+  --destructive: #9B2C2C;
+  --destructive-foreground: #FAF8F3;
+  --border: #DEDAD0;
+  --input: #D5D0C4;
+  --ring: #C5A649;
+  --heading: #0F1B33; /* Ink navy — titles */
+
+  /* Brand constants */
+  --gold: #C5A649; /* Logo gold — on navy, rules and ornaments */
+  --gold-soft: #E8D9A8;
+  --ink: #0F1B33; /* Deepest navy — hero, footer */
+  --navy: #1B2A4A;
+
+  /* Surface names shared with the blog components. */
+  --sand: #FAF8F3;
+  --shell: #FAF8F3;
+  --panel: #F1EEE7;
+  --panel-strong: #E9E4DA;
+
+  /* Architectural shape language: almost square. */
+  --radius: 0.375rem;
+  --radius-shell: 0;
+  --radius-panel: 0.25rem;
+}
+
+@theme inline {
+  --font-display: var(--font-serif-display);
+  --font-sans: var(--font-lato), -apple-system, 'Helvetica Neue', Arial, sans-serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-heading: var(--heading);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-ink: var(--ink);
+  --color-navy: var(--navy);
+  --color-sand: var(--sand);
+  --color-shell: var(--shell);
+  --color-panel: var(--panel);
+  --color-panel-strong: var(--panel-strong);
+  --radius-sm: calc(var(--radius) - 0.125rem);
+  --radius-md: var(--radius);
+  --radius-lg: calc(var(--radius) + 0.125rem);
+  --radius-xl: calc(var(--radius) + 0.25rem);
+  --radius-2xl: calc(var(--radius) + 0.5rem);
+  --radius-3xl: calc(var(--radius) + 0.75rem);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    /* Display face as a real custom property. Declared on body because
+       next/font sets --font-cormorant there, and values in `@theme inline`
+       are inlined into utilities rather than emitted as variables. */
+    --font-serif-display: var(--font-cormorant), 'Cormorant Garamond', Georgia, serif;
+    @apply bg-background text-foreground font-sans;
+  }
+  h1, h2, h3, h4 {
+    text-wrap: balance;
+  }
+}
+
+/* ── Layout ──────────────────────────────────────────────────────────────
+   Full-bleed bands; readable measure is protected by the container. */
+.site-frame {
+  background: var(--background);
+}
+
+.site-shell {
+  position: relative;
+  overflow: clip;
+  background: var(--background);
+}
+
+.site-container {
+  width: 100%;
+  max-width: 84rem;
+  margin-inline: auto;
+  padding-inline: clamp(1.25rem, 4vw, 3.5rem);
+}
+
+.site-gutter {
+  padding-inline: clamp(1.25rem, 4vw, 3.5rem);
+}
+
+.site-panel {
+  border-radius: var(--radius-panel);
+  background: var(--panel);
+}
+
+.site-panel-strong {
+  border-radius: var(--radius-panel);
+  background: var(--panel-strong);
+}
+
+/* A navy feature band. Text inside reads ivory, rules read gold. */
+.band-ink {
+  background: var(--ink);
+  color: var(--primary-foreground);
+}
+
+.band-navy {
+  background: var(--navy);
+  color: var(--primary-foreground);
+}
+
+/* ── Buttons ───────────────────────────────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  border-radius: var(--radius-sm);
+  padding: 0.95rem 1.6rem;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1;
+  transition: transform 0.3s ease, background-color 0.3s ease, border-color 0.3s ease,
+    color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+/* Gold on ink — the main call to action. */
+.btn-gold {
+  background: var(--gold);
+  color: var(--ink);
+  box-shadow: 0 18px 34px -22px rgba(197, 166, 73, 0.9);
+}
+
+.btn-gold:hover {
+  background: #d4b75c;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: var(--primary-foreground);
+  box-shadow: 0 18px 32px -22px rgba(15, 27, 51, 0.8);
+}
+
+.btn-primary:hover {
+  background: var(--ink);
+}
+
+/* Kept for blog components that still reference it. */
+.btn-sand {
+  background: var(--primary);
+  color: var(--primary-foreground);
+}
+
+.btn-sand:hover {
+  background: var(--ink);
+}
+
+.btn-outline {
+  border: 1px solid rgba(15, 27, 51, 0.35);
+  color: var(--heading);
+  background: transparent;
+}
+
+.btn-outline:hover {
+  border-color: var(--heading);
+  background: rgba(15, 27, 51, 0.04);
+}
+
+/* Outline variant for navy bands. */
+.btn-ghost-light {
+  border: 1px solid rgba(232, 217, 168, 0.45);
+  color: var(--primary-foreground);
+  background: transparent;
+}
+
+.btn-ghost-light:hover {
+  border-color: var(--gold);
+  color: var(--gold-soft);
+}
+
+/* Inline text link with a gold underline that grows on hover. */
+.link-gold {
+  background-image: linear-gradient(var(--gold), var(--gold));
+  background-size: 100% 1px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  padding-bottom: 2px;
+  transition: background-size 0.3s ease, color 0.3s ease;
+}
+
+.link-gold:hover {
+  background-size: 100% 2px;
+}
+
+/* ── Typography helpers ────────────────────────────────────────────────── */
+.section-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  color: var(--accent);
+}
+
+/* The short gold rule that opened every section of the original site. */
+.section-eyebrow::before {
+  content: '';
+  display: inline-block;
+  width: 2rem;
+  height: 2px;
+  background: var(--gold);
+}
+
+.band-ink .section-eyebrow,
+.band-navy .section-eyebrow {
+  color: var(--gold);
+}
+
+.display-title {
+  font-family: var(--font-serif-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.05;
+}
+
+.gold-rule {
+  display: block;
+  height: 1px;
+  background: linear-gradient(90deg, var(--gold), rgba(197, 166, 73, 0));
+}
+
+/* Gold diamond — the logo's punctuation. */
+.diamond {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  background: var(--gold);
+  transform: rotate(45deg);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground);
+}
+
+/* ── Blog prose ────────────────────────────────────────────────────────── */
+.blog-prose {
+  position: relative;
+}
+
+.blog-prose > :first-child {
+  margin-top: 0;
+}
+
+.blog-prose a {
+  word-break: break-word;
+}
+
+.blog-prose h2,
+.blog-prose h3 {
+  scroll-margin-top: 6rem;
+  font-family: var(--font-serif-display);
+  font-weight: 600;
+  color: var(--heading);
+}
+
+.blog-prose h2 a,
+.blog-prose h3 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.blog-prose h2 a:hover,
+.blog-prose h3 a:hover {
+  color: var(--accent);
+}
+
+.blog-prose p {
+  text-wrap: pretty;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+[id] {
+  scroll-margin-top: 6.5rem;
+}
+
+::selection {
+  background-color: rgba(197, 166, 73, 0.28);
+  color: var(--ink);
+}
+
+/* ── Motion ────────────────────────────────────────────────────────────── */
+
+/* Flowing lines draw themselves in once, then each line sways slowly on
+   its own rhythm. */
+@keyframes line-draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes line-sway {
+  0%, 100% { transform: translate3d(0, 0, 0) rotate(0deg); }
+  50% { transform: translate3d(0.6%, -1.4%, 0) rotate(0.6deg); }
+}
+
+.flow-line {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: line-draw 2.4s cubic-bezier(.65, 0, .35, 1) forwards;
+}
+
+.flow-sway {
+  transform-box: view-box;
+  transform-origin: 0 0;
+  animation-name: line-sway;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+/* The ODC connector fills from left to right once it is in view. */
+.odc-track {
+  transform-origin: left center;
+  transform: scaleX(0);
+  transition: transform 1.6s cubic-bezier(.65, 0, .35, 1);
+}
+
+[data-in-view] .odc-track {
+  transform: scaleX(1);
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+  .flow-line {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+  .flow-sway {
+    animation: none;
+  }
+  .odc-track {
+    transition: none;
+    transform: scaleX(1);
+  }
+}

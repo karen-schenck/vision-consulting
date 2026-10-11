@@ -1,0 +1,42 @@
+# Vision Human Consulting
+
+> Cabinet de conseil et de formation basé à Antibes (Alpes-Maritimes, France). Vision Human Consulting aide les dirigeants, les équipes commerciales et les établissements d'enseignement à relier stratégie, organisation et facteur humain à la performance commerciale. Signature : « Révéler l'invisible. Créer l'impact. » Méthode propriétaire : ODC (Observer, Décoder, Consolider).
+
+Consulting and training firm in Antibes, French Riviera. Founded by Karen Schenck (20+ years in sales strategy, marketing, management and customer experience). Site available in French (default) and English (/en/).
+
+## Key facts
+
+- Legal entity: VEORA REAL ESTATE, EURL, trading as Vision Human Consulting, 1180 chemin des Rastines, 06600 Antibes, France, SIREN 107 361 677
+- Founder and director: Karen Schenck
+- Contact: contact@visionhumanconsulting.com · +33 6 84 37 60 62 · https://www.linkedin.com/company/visionhumanconsulting/
+- Discovery call booking: https://calendly.com/karenschenck/echange-decouverte-vhc
+- Pricing: on quotation (no public price list)
+
+## Consulting offers
+
+- [Notre approche du conseil](https://visionhumanconsulting.com/conseil/): global reading of strategy, organisation, management, sales practices and customer experience before acting
+- [Vision · Audit stratégique](https://visionhumanconsulting.com/offres/audit-strategique/): structured audit revealing critical gaps between strategic intent and organisational reality; duration depends on scope
+- [Impact · Transformation ciblée](https://visionhumanconsulting.com/offres/transformation-ciblee/): 2-week engagement turning audit findings into concrete, applicable actions
+- [Signature · Alignement exécutif durable](https://visionhumanconsulting.com/offres/alignement-executif/): tailored engagement for leadership teams facing governance, organisational or transformation challenges
+- [Comparatif des offres](https://visionhumanconsulting.com/offres/)
+
+## Method
+
+- [Méthode ODC](https://visionhumanconsulting.com/methodes/): Observer (see the situation as lived), Décoder (connect findings, separate causes from symptoms), Consolider (prioritised, actionable recommendations with tracking indicators). Cites: +10 to +25% efficiency when people and business strategy are aligned; 4–8% additional growth for people- and customer-centred companies; +5% employee engagement → up to +1.3% customer satisfaction (sources: BCG, Martin Newman, Deloitte, Fujitsu)
+
+## Training
+
+- [Performance commerciale en immobilier neuf](https://visionhumanconsulting.com/formations/immobilier-neuf/): for property developers' sales teams; 1 day, 7h, in-company, on-site or remote
+- [Pourquoi votre agence plutôt qu'une autre ?](https://visionhumanconsulting.com/formations/agences-immobilieres/): for real estate agencies; 1 day, 7h, inter- or in-company, on-site or remote
+- [Stratégie & performance commerciale](https://visionhumanconsulting.com/formations/enseignement-superieur/): for business/sales/marketing students, BTS to Master's; format built with the institution
+
+## Other pages
+
+- [À propos](https://visionhumanconsulting.com/a-propos/)
+- [Blog](https://visionhumanconsulting.com/blog/)
+- [Contact](https://visionhumanconsulting.com/contact/)
+- [English version](https://visionhumanconsulting.com/en/)
+
+## Optional
+
+- [Full content for LLMs](https://visionhumanconsulting.com/llms-full.txt)

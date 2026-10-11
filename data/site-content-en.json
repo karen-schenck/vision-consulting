@@ -1,0 +1,779 @@
+{
+  "seo": {
+    "title": "Vision Human Consulting | Strategy & Sales Performance Consulting in Antibes, French Riviera",
+    "description": "Consulting and training firm in Antibes, France. Strategic audits, targeted transformation and sales-performance training. The ODC method: Observe, Decode, Consolidate. Over 20 years of experience.",
+    "keywords": [
+      "consulting firm Antibes",
+      "sales strategy consulting",
+      "strategic business audit",
+      "organisational consulting",
+      "sales performance",
+      "real estate sales training",
+      "real estate agency training",
+      "French Riviera consultant",
+      "ODC method",
+      "human factor performance"
+    ],
+    "openGraph": {
+      "images": [
+        {
+          "url": "/og-vhc.jpg",
+          "width": 1200,
+          "height": 630,
+          "alt": "Vision Human Consulting: gold VHC monogram on a navy wall with flowing gold lines"
+        }
+      ]
+    },
+    "schema": {
+      "organization": {
+        "slogan": "Reveal the invisible. Create impact.",
+        "priceRange": "On quotation",
+        "founder": {
+          "@type": "Person",
+          "name": "Karen Schenck",
+          "jobTitle": "Founder"
+        },
+        "knowsAbout": [
+          "Sales strategy",
+          "Sales performance",
+          "Strategic audit",
+          "Organisation",
+          "Management",
+          "Customer experience",
+          "New-build real estate",
+          "Professional training"
+        ]
+      }
+    }
+  },
+  "header": {
+    "brand": {
+      "tagline": "Reveal the invisible. Create impact.",
+      "logoAlt": "Vision Human Consulting, consulting & training in Antibes"
+    },
+    "navLinks": [
+      {
+        "label": "Consulting",
+        "href": "/conseil",
+        "children": [
+          { "label": "Our consulting approach", "href": "/conseil" },
+          { "label": "Our offers", "href": "/offres" },
+          { "label": "Vision · Strategic audit", "href": "/offres/audit-strategique" },
+          { "label": "Impact · Targeted transformation", "href": "/offres/transformation-ciblee" },
+          { "label": "Signature · Executive alignment", "href": "/offres/alignement-executif" }
+        ]
+      },
+      { "label": "ODC method", "href": "/methodes" },
+      {
+        "label": "Training",
+        "href": "/formations",
+        "children": [
+          { "label": "All training courses", "href": "/formations" },
+          { "label": "New-build real estate", "href": "/formations/immobilier-neuf" },
+          { "label": "Real estate agencies", "href": "/formations/agences-immobilieres" },
+          { "label": "Higher education", "href": "/formations/enseignement-superieur" }
+        ]
+      },
+      { "label": "About", "href": "/a-propos" },
+      { "label": "Insights", "href": "/blog" }
+    ],
+    "ctaLabel": "Talk to us",
+    "mobileMenu": {
+      "openAriaLabel": "Open menu",
+      "closeAriaLabel": "Close menu"
+    }
+  },
+  "footer": {
+    "tagline": "Consulting and training that connect strategy, organisation and the human factor to sales performance. Based in Antibes, on the French Riviera.",
+    "practicalInfo": {
+      "title": "Contact",
+      "address": "Antibes, French Riviera",
+      "phone": "+33 6 84 37 60 62"
+    },
+    "columns": [
+      {
+        "title": "Consulting",
+        "links": [
+          { "label": "Our approach", "href": "/conseil" },
+          { "label": "Strategic audit", "href": "/offres/audit-strategique" },
+          { "label": "Targeted transformation", "href": "/offres/transformation-ciblee" },
+          { "label": "Executive alignment", "href": "/offres/alignement-executif" },
+          { "label": "ODC method", "href": "/methodes" }
+        ]
+      },
+      {
+        "title": "Training",
+        "links": [
+          { "label": "New-build real estate", "href": "/formations/immobilier-neuf" },
+          { "label": "Real estate agencies", "href": "/formations/agences-immobilieres" },
+          { "label": "Higher education", "href": "/formations/enseignement-superieur" },
+          { "label": "About", "href": "/a-propos" },
+          { "label": "Insights", "href": "/blog" }
+        ]
+      }
+    ],
+    "legalLinks": [
+      { "label": "Legal notice", "href": "/mentions-legales" },
+      { "label": "Privacy", "href": "/confidentialite" }
+    ],
+    "copyright": "Vision Human Consulting, VEORA REAL ESTATE. All rights reserved."
+  },
+  "common": {
+    "bookCallLabel": "Book a discovery call",
+    "contactLabel": "Contact us",
+    "learnMoreLabel": "Learn more",
+    "homeLabel": "Home",
+    "objectiveLabel": "Objective",
+    "forWhomLabel": "Who is it for?",
+    "signalsLabel": "When to use it",
+    "processLabel": "How it works",
+    "deliverablesLabel": "What you get",
+    "durationLabel": "Duration",
+    "formatLabel": "Format",
+    "modeLabel": "Delivery",
+    "audienceLabel": "Audience",
+    "objectivesLabel": "Learning objectives",
+    "programmeLabel": "Programme",
+    "otherOffersLabel": "Other levels of support",
+    "otherTrainingsLabel": "Other training courses",
+    "quoteLabel": "Tailored proposal",
+    "stepLabel": "Step",
+    "sourcesLabel": "Sources"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Consulting & training · Antibes · French Riviera",
+      "title": "Reveal the invisible. Create impact.",
+      "subtitle": "Vision Human Consulting helps leaders and sales teams pinpoint what is really holding performance back (organisation, decisions, practices, customer experience) and turn those friction points into lasting levers for action.",
+      "primaryCtaLabel": "Book a discovery call",
+      "secondaryCtaLabel": "Discover the ODC method",
+      "trust": [
+        { "value": "20+ years", "label": "of field experience" },
+        { "value": "Consulting", "label": "& training" },
+        { "value": "On-site", "label": "or remote" }
+      ],
+      "imageAlt": "Gold VHC monogram on a navy wall with flowing gold lines, beside a sunlit concrete staircase"
+    },
+    "symptoms": {
+      "eyebrow": "The diagnosis",
+      "title": "The symptoms are not always the problem",
+      "description": "A sales difficulty can reveal an issue of organisation, positioning, management or customer journey. Treating the symptom alone just moves the problem; understanding it is what solves it.",
+      "items": [
+        { "icon": "trending-down", "title": "Sales are slowing down", "text": "The pace drops, conversion erodes, and the usual actions no longer deliver the same results." },
+        { "icon": "split", "title": "Teams are no longer pulling together", "text": "Priorities diverge between leadership, management and the field. Energy gets scattered." },
+        { "icon": "route-off", "title": "Decisions don't reach the field", "text": "The strategy is clear on paper, but it shows up neither in practices nor in results." },
+        { "icon": "user-x", "title": "Customer experience is slipping", "text": "Pain points pile up along the journey, without anyone knowing exactly where or why." }
+      ],
+      "conclusion": "That is why we always start with a global reading of the situation before deciding what to do."
+    },
+    "expertises": {
+      "eyebrow": "Our expertise",
+      "title": "Two complementary areas of expertise",
+      "items": [
+        {
+          "title": "Consulting",
+          "text": "Analysing organisations, identifying friction points and supporting the changes needed for lasting performance.",
+          "points": ["Strategic audit", "Targeted transformation", "Sustainable executive alignment"],
+          "ctaLabel": "Explore our consulting offers",
+          "href": "/conseil",
+          "imageSrc": "/images/conseil-analyse.webp",
+          "imageAlt": "A consultant in discussion with two executives around a meeting table covered in analysis documents"
+        },
+        {
+          "title": "Training",
+          "text": "Passing on directly applicable methods and tools to structure sales action, build skills and meet market reality.",
+          "points": ["New-build real estate", "Real estate agencies", "Higher education"],
+          "ctaLabel": "Explore our training",
+          "href": "/formations",
+          "imageSrc": "/images/formations.webp",
+          "imageAlt": "A trainer leading a session for a group of professionals gathered around a large table"
+        }
+      ]
+    },
+    "method": {
+      "eyebrow": "Our approach",
+      "title": "The ODC method",
+      "description": "Vision Human Consulting combines strategic analysis, field experience and an understanding of human dynamics to identify the right levers for each organisation.",
+      "ctaLabel": "Discover the ODC method"
+    },
+    "offers": {
+      "eyebrow": "Our consulting offers",
+      "title": "Three levels of support, depending on your needs",
+      "description": "From diagnosis to executive support, the level of intervention is defined by your challenges and the results you expect.",
+      "ctaLabel": "Compare the offers"
+    },
+    "figures": {
+      "eyebrow": "Key figures",
+      "title": "The human factor is not a “soft” asset, but a measurable strategic lever",
+      "items": [
+        { "value": "+10 to +25%", "text": "overall efficiency when people strategy and business strategy are aligned." },
+        { "value": "4 to 8%", "text": "additional growth for companies that put people and customers at the centre of their model." },
+        { "value": "+1.3%", "text": "customer satisfaction can follow from +5% employee engagement." }
+      ],
+      "sources": "Sources: Boston Consulting Group · Martin Newman · Deloitte · Fujitsu"
+    },
+    "whyUs": {
+      "eyebrow": "Why choose us?",
+      "title": "A cross-functional reading, a concrete execution",
+      "items": [
+        { "icon": "award", "title": "20+ years of experience", "text": "Sales strategy, marketing, management and customer experience." },
+        { "icon": "target", "title": "Operational expertise", "text": "Clear objectives, actionable recommendations and tracking indicators." },
+        { "icon": "network", "title": "A cross-functional view", "text": "Connecting strategy, organisation, people and performance instead of treating each issue in isolation." }
+      ]
+    },
+    "sectors": {
+      "eyebrow": "Who we work with",
+      "title": "Interventions grounded in the reality of your market",
+      "items": [
+        { "icon": "building-2", "title": "Property developers", "text": "Sales teams on new-build programmes, from launch to the last units.", "href": "/formations/immobilier-neuf" },
+        { "icon": "store", "title": "Real estate agencies", "text": "Differentiation, prospecting and business development in a demanding market.", "href": "/formations/agences-immobilieres" },
+        { "icon": "graduation-cap", "title": "Higher education", "text": "Business, sales and marketing schools and programmes, from BTS to Master's.", "href": "/formations/enseignement-superieur" },
+        { "icon": "briefcase", "title": "Leadership teams & SMEs", "text": "Leaders facing governance, organisational or transformation challenges.", "href": "/offres" }
+      ]
+    },
+    "founder": {
+      "eyebrow": "The founder",
+      "role": "Founder of Vision Human Consulting",
+      "text": "After more than twenty years in sales strategy, marketing, management and customer experience, Karen Schenck founded Vision Human Consulting on one conviction: a company's performance rests on the coherence between its strategy, its decisions and its practices. And the human factor is its most underestimated lever.",
+      "ctaLabel": "Learn more"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "What we are often asked",
+      "items": [
+        {
+          "question": "What is the difference between your consulting and your training?",
+          "answer": "Consulting addresses a situation specific to your company: we analyse your organisation, identify friction points and support the changes. Training gives your teams directly applicable methods and tools on a specific topic, such as sales performance in new-build real estate or growing an agency."
+        },
+        {
+          "question": "What is the ODC method?",
+          "answer": "ODC stands for Observe, Decode, Consolidate. It structures every engagement: observe the situation as it is actually lived, decode the causes and interactions between findings, then consolidate concrete, prioritised directions with tracking indicators."
+        },
+        {
+          "question": "How long does an engagement last?",
+          "answer": "It depends on the level of support. The strategic audit is sized to the scope analysed. Targeted transformation is a two-week engagement. Sustainable executive alignment is tailored with the leadership team. The duration is always agreed before starting."
+        },
+        {
+          "question": "Do we have to start with an audit?",
+          "answer": "Targeted transformation builds on the findings of an audit, which is the safest starting point to act on the right levers. During the first conversation, we decide together which level of support best fits your situation."
+        },
+        {
+          "question": "Can your training be adapted to our company?",
+          "answer": "Yes. The new-build real estate and real estate agency courses run over one 7-hour day, on-site or remote, in-company (and inter-company for agencies). The higher-education course is built around the institution's needs."
+        },
+        {
+          "question": "How does the first conversation work?",
+          "answer": "Book a slot online or contact us by email or phone. This no-commitment first conversation lets us understand your context and challenges, then suggest the most relevant format."
+        }
+      ]
+    },
+    "blog": {
+      "eyebrow": "Analysis & insights",
+      "title": "Understand before acting",
+      "ctaLabel": "All articles",
+      "readLabel": "Read article"
+    },
+    "booking": {
+      "eyebrow": "First step",
+      "title": "Let's talk about your challenges",
+      "description": "A first, no-commitment conversation to understand your situation and identify the most suitable level of support: consulting engagement or training.",
+      "ctaLabel": "Book a discovery call",
+      "secondaryCtaLabel": "Send a message"
+    }
+  },
+  "consultingPage": {
+    "metadata": {
+      "title": "Strategy, Organisation & Sales Performance Consulting | Vision Human Consulting",
+      "description": "Understand the challenges, identify the levers, structure the action. Vision Human Consulting analyses your organisation as a whole to define solutions fitted to the reality of your business."
+    },
+    "badge": "Consulting",
+    "title": "Understand the challenges. Identify the levers. Structure the action.",
+    "intro": "A business problem rarely comes down to a single issue. A sales difficulty can reveal a problem of organisation, positioning, management or customer journey.",
+    "imageAlt": "A consultant in discussion with two executives around a meeting table covered in analysis documents",
+    "globalReading": {
+      "title": "A global reading before any action",
+      "paragraphs": [
+        "That is why Vision Human Consulting favours a global reading of the situation before deciding which actions to take.",
+        "The goal: understand the situation precisely, prioritise, and define solutions fitted to the reality of the company, rather than applying a standard recipe."
+      ]
+    },
+    "dimensions": {
+      "title": "The dimensions we connect",
+      "items": [
+        { "icon": "compass", "title": "Strategy & positioning", "text": "Is your strategic intent clear, shared and reflected in your offer?" },
+        { "icon": "workflow", "title": "Organisation & decisions", "text": "Do roles, processes and information flows serve the strategy?" },
+        { "icon": "users", "title": "Management & teams", "text": "Do teams have the guidance, resources and engagement they need?" },
+        { "icon": "handshake", "title": "Sales practices", "text": "Prospecting, conversion, follow-up: where is performance being lost?" },
+        { "icon": "heart-handshake", "title": "Customer experience", "text": "Does the customer journey keep the promise made at the point of sale?" }
+      ]
+    },
+    "method": {
+      "title": "A method to structure the engagement",
+      "text": "From observing the situation to consolidating the chosen directions, the ODC method (Observe, Decode, Consolidate) structures each stage of the engagement.",
+      "ctaLabel": "Discover the method"
+    },
+    "levels": {
+      "title": "Several levels of support",
+      "text": "Strategic audit, targeted transformation or tailored support: the level of intervention is defined by the company's challenges and the expected results.",
+      "ctaLabel": "Discover the offers"
+    }
+  },
+  "offersPage": {
+    "metadata": {
+      "title": "Consulting Offers: Audit, Transformation, Executive Alignment | Vision Human Consulting",
+      "description": "Three levels of support: Vision (strategic audit), Impact (two-week targeted transformation) and Signature (sustainable executive alignment). Choose the support that fits your challenges."
+    },
+    "badge": "Our consulting offers",
+    "title": "Three levels of support, depending on your needs",
+    "intro": "Each offer answers a different level of challenge. They can follow on from one another: the audit reveals, the transformation acts, the alignment makes change last.",
+    "offers": [
+      {
+        "slug": "audit-strategique",
+        "tier": "Vision",
+        "title": "Strategic audit",
+        "tagline": "Reveal the critical gaps between strategic intent and organisational reality.",
+        "summary": "A structured audit designed to reveal the critical gaps between strategic intent and organisational reality.",
+        "objective": "Identify the dysfunctions holding back the organisation, decisions, sales practices and customer experience.",
+        "duration": "Depends on scope",
+        "signals": [
+          "Results fall short of objectives, with no obvious cause.",
+          "Decisions made at the top don't show up in the field.",
+          "You want an outside view before launching a reorganisation or action plan.",
+          "Customer or internal pain points are multiplying."
+        ],
+        "process": [
+          { "title": "Observe", "text": "Interviews with leadership and teams, observation of practices, analysis of existing documents and indicators." },
+          { "title": "Decode", "text": "Connecting findings to separate causes from symptoms and identify the critical gaps." },
+          { "title": "Consolidate", "text": "Structured debrief, prioritised issues and directly actionable recommendations." }
+        ],
+        "deliverables": [
+          "A map of the gaps between strategy and operational reality",
+          "The priority dysfunctions and their causes",
+          "Prioritised, actionable recommendations",
+          "A debrief to the leadership team"
+        ],
+        "metadata": {
+          "title": "Strategic Business Audit, the Vision Offer | Vision Human Consulting",
+          "description": "A structured audit revealing the gaps between strategic intent and organisational reality: organisation, decisions, sales practices, customer experience. Antibes, French Riviera."
+        }
+      },
+      {
+        "slug": "transformation-ciblee",
+        "tier": "Impact",
+        "title": "Targeted transformation",
+        "tagline": "Turn audit findings into concrete action, in two weeks.",
+        "summary": "A two-week engagement to turn the findings of the audit into concrete, directly applicable actions.",
+        "objective": "Act on the identified blocking points, clarify priorities and implement the changes needed for a lasting improvement in how the organisation works.",
+        "duration": "2 weeks",
+        "signals": [
+          "An audit has revealed specific blocking points.",
+          "You know what needs to change, but implementation is stalling.",
+          "Teams need a framework to move into action.",
+          "You want visible results quickly, on a defined scope."
+        ],
+        "process": [
+          { "title": "Frame", "text": "Confirm the priorities from the audit and the expected results." },
+          { "title": "Act", "text": "Implement the changes with the teams concerned: organisation, practices, tools." },
+          { "title": "Anchor", "text": "Tracking indicators and checkpoints for a lasting improvement." }
+        ],
+        "deliverables": [
+          "A prioritised, shared action plan",
+          "The first changes implemented in the field",
+          "Tracking indicators",
+          "An end-of-engagement review"
+        ],
+        "metadata": {
+          "title": "Two-Week Targeted Transformation, the Impact Offer | Vision Human Consulting",
+          "description": "Two weeks to turn audit findings into concrete action: remove blocking points, clarify priorities and anchor change in the organisation."
+        }
+      },
+      {
+        "slug": "alignement-executif",
+        "tier": "Signature",
+        "title": "Sustainable executive alignment",
+        "tagline": "Supporting leadership teams through complex governance, organisational or transformation challenges.",
+        "summary": "A tailored engagement for leadership teams facing complex governance, organisational or transformation challenges.",
+        "objective": "Align decisions, structure the necessary actions and make change last.",
+        "duration": "Tailored",
+        "signals": [
+          "Leadership must drive a large-scale transformation.",
+          "Governance or organisational issues go beyond a single department.",
+          "Decisions lack alignment within the executive committee.",
+          "You want long-term support rather than a one-off intervention."
+        ],
+        "process": [
+          { "title": "Understand", "text": "An in-depth reading of governance, organisational and transformation challenges with leadership." },
+          { "title": "Align", "text": "Build a shared vision and coherent decisions within the leadership team." },
+          { "title": "Make it last", "text": "Structure the actions and follow up regularly so that change holds." }
+        ],
+        "deliverables": [
+          "A support framework built with leadership",
+          "Aligned decisions and a structured roadmap",
+          "Long-term follow-up",
+          "A single point of contact and an independent outside view"
+        ],
+        "metadata": {
+          "title": "Executive Alignment & Leadership Support, the Signature Offer | Vision Human Consulting",
+          "description": "A tailored engagement for leadership teams facing complex governance, organisational or transformation challenges: align decisions and make change last."
+        }
+      }
+    ]
+  },
+  "methodPage": {
+    "metadata": {
+      "title": "The ODC Method: Observe, Decode, Consolidate | Vision Human Consulting",
+      "description": "A concrete, cross-functional approach that analyses strategy, decisions and practices together to identify gaps and determine the most relevant levers for action."
+    },
+    "badge": "Our method",
+    "title": "A concrete, cross-functional approach",
+    "intro": "A company's performance rests in particular on the coherence between its strategy, its decisions and its practices. When that coherence weakens, it can quickly affect how an organisation works and the results it achieves.",
+    "paragraphs": [
+      "The ODC method analyses together the different dimensions that influence a company's activity, in order to identify gaps, understand how they interact and determine the most relevant levers for action.",
+      "ODC connects the findings of the analysis to understand their causes and consequences. This makes it possible to prioritise needs and build concrete responses suited to the issues identified."
+    ],
+    "steps": [
+      {
+        "letter": "O",
+        "title": "Observe",
+        "summary": "See the situation as it is lived, not as it is described.",
+        "points": [
+          "Interviews with leadership, management and the field",
+          "Observation of practices and the customer journey",
+          "Analysis of existing indicators and documents"
+        ]
+      },
+      {
+        "letter": "D",
+        "title": "Decode",
+        "summary": "Connect findings to separate causes from symptoms.",
+        "points": [
+          "Connecting findings with one another",
+          "Identifying gaps and how they interact",
+          "Prioritising needs"
+        ]
+      },
+      {
+        "letter": "C",
+        "title": "Consolidate",
+        "summary": "Turn understanding into concrete, lasting directions.",
+        "points": [
+          "Actionable, prioritised recommendations",
+          "Clear objectives and tracking indicators",
+          "Implementation support where needed"
+        ]
+      }
+    ],
+    "figuresTitle": "Key figures",
+    "figuresIntro": "International studies confirm the concrete impact of people-centred approaches:"
+  },
+  "trainingsPage": {
+    "metadata": {
+      "title": "Sales Performance Training: New-Build Real Estate, Agencies, Higher Education | Vision Human Consulting",
+      "description": "Training grounded in field reality: sales performance in new-build real estate, real estate agency growth, sales strategy for higher education. On-site or remote."
+    },
+    "badge": "Training",
+    "title": "Training grounded in field reality",
+    "intro": "Vision Human Consulting designs training focused on business development and sales performance, with methods and tools that can be put to work immediately.",
+    "imageAlt": "A trainer leading a session for a group of professionals gathered around a large table",
+    "ctaTitle": "Would you like to organise a training session or receive a proposal tailored to your needs?",
+    "trainings": [
+      {
+        "slug": "immobilier-neuf",
+        "sector": "New-build real estate",
+        "title": "Sales performance in new-build real estate",
+        "subtitle": "Optimise the sale of a programme, from launch to the last units.",
+        "summary": "A course for property developers' sales teams to better analyse results, strengthen conversion and identify levers for action when the pace of sales slows.",
+        "audience": "Sales teams and sales managers at property developers.",
+        "facts": [
+          { "label": "Duration", "value": "1 day, 7 hours" },
+          { "label": "Format", "value": "In-company" },
+          { "label": "Delivery", "value": "On-site or remote" }
+        ],
+        "objectives": [
+          "Analyse a programme's sales results",
+          "Strengthen conversion",
+          "Identify levers for action when sales slow down",
+          "Secure the sale of the last units"
+        ],
+        "programme": [
+          { "title": "Reading a programme's results", "text": "The indicators that matter, from launch to sell-out." },
+          { "title": "From enquiry to reservation", "text": "Spot where conversion is lost along the buyer journey." },
+          { "title": "When the pace slows", "text": "Diagnose the causes and choose levers before touching the price." },
+          { "title": "The last units", "text": "Build a targeted action plan to complete the sale." }
+        ],
+        "metadata": {
+          "title": "New-Build Real Estate Sales Performance Training | Vision Human Consulting",
+          "description": "One-day (7h) course for property developers' sales teams: analyse results, strengthen conversion and relaunch a programme whose sales are slowing. In-company, on-site or remote."
+        }
+      },
+      {
+        "slug": "agences-immobilieres",
+        "sector": "Real estate agencies",
+        "title": "Why your agency rather than another?",
+        "subtitle": "Stand out, create your own opportunities and grow your business.",
+        "summary": "A course for real estate professionals to rethink their business development in a market where visibility and traditional prospecting are no longer enough.",
+        "audience": "Agency owners, negotiators and real estate advisers.",
+        "facts": [
+          { "label": "Duration", "value": "1 day, 7 hours" },
+          { "label": "Format", "value": "Inter- or in-company" },
+          { "label": "Delivery", "value": "On-site or remote" }
+        ],
+        "objectives": [
+          "Clarify what sets the agency apart in its market",
+          "Create opportunities beyond traditional prospecting",
+          "Structure a business development plan",
+          "Strengthen perceived value for sellers and buyers"
+        ],
+        "programme": [
+          { "title": "The market has changed", "text": "Why visibility and traditional prospecting are no longer enough." },
+          { "title": "Your difference", "text": "Express a clear, credible value proposition." },
+          { "title": "Creating opportunities", "text": "Network, referrals, local presence: lasting sources of business." },
+          { "title": "Into action", "text": "A concrete development plan fitted to the agency." }
+        ],
+        "metadata": {
+          "title": "Real Estate Agency Training: Stand Out and Grow | Vision Human Consulting",
+          "description": "One-day (7h) course for real estate agencies: stand out, create your own opportunities and grow your business. Inter- or in-company, on-site or remote."
+        }
+      },
+      {
+        "slug": "enseignement-superieur",
+        "sector": "Higher education",
+        "title": "Strategy & sales performance",
+        "subtitle": "From market analysis to steering sales action.",
+        "summary": "A course for business, sales and marketing students, from BTS to Master's, connecting the fundamentals of strategy to business reality and building their ability to analyse, decide and act.",
+        "audience": "Business, sales and marketing students, from BTS to Master's level.",
+        "facts": [
+          { "label": "Duration", "value": "Based on the institution's needs" },
+          { "label": "Format", "value": "Built with the institution" },
+          { "label": "Delivery", "value": "On-site or remote" }
+        ],
+        "objectives": [
+          "Connect strategy fundamentals to business reality",
+          "Analyse a market and a positioning",
+          "Decide and prioritise sales actions",
+          "Steer sales action with indicators"
+        ],
+        "programme": [
+          { "title": "Analysing the market", "text": "Customers, competition, environment: the analysis tools." },
+          { "title": "Building a strategy", "text": "Positioning, targets and value proposition." },
+          { "title": "Turning it into sales action", "text": "From strategy to an operational action plan." },
+          { "title": "Steering performance", "text": "Indicators, tracking and adjustments based on real cases." }
+        ],
+        "metadata": {
+          "title": "Strategy & Sales Performance Course for Higher Education | Vision Human Consulting",
+          "description": "For business, sales and marketing schools and programmes (BTS to Master's): from market analysis to steering sales action. Format built with the institution."
+        }
+      }
+    ]
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "About Karen Schenck, Founder | Vision Human Consulting",
+      "description": "Vision Human Consulting was founded by Karen Schenck after more than twenty years in sales strategy, marketing, management and customer experience. Discover our convictions and how we work."
+    },
+    "badge": "About",
+    "title": "Connecting strategy, organisation and people",
+    "intro": "Vision Human Consulting is a consulting and training firm based in Antibes. It supports leaders, sales teams and educational institutions with their development and performance challenges.",
+    "imageAlt": "Three professionals analysing documents at a table in front of a navy wall reading Vision, Analysis, Alignment, Performance",
+    "founder": {
+      "title": "The founder",
+      "paragraphs": [
+        "Karen Schenck has spent more than twenty years in sales strategy, marketing, management and customer experience. Field experience that taught her to recognise what dashboards don't show: the gaps between what is decided and what is actually lived inside the organisation.",
+        "She founded Vision Human Consulting to put this cross-functional reading at the service of businesses, with a method, ODC, and a standard: actionable recommendations, clear objectives and tracking indicators."
+      ]
+    },
+    "values": {
+      "title": "Our convictions",
+      "items": [
+        { "title": "Understand before acting", "text": "A global reading of the situation always comes before the recommendation." },
+        { "title": "People are a measurable lever", "text": "The human factor is not a “soft” asset: it directly drives efficiency, growth and customer satisfaction." },
+        { "title": "Concrete, not just a report", "text": "Actionable recommendations, clear priorities and tracking indicators." },
+        { "title": "Tailored", "text": "Every engagement is built from the company's reality, not from a standard template." }
+      ]
+    },
+    "name": {
+      "title": "Reveal the invisible. Create impact.",
+      "text": "What holds an organisation back is rarely visible from the inside. Our role is to make it visible, then turn it into a lever for action."
+    }
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contact: Let's Discuss Your Project | Vision Human Consulting",
+      "description": "A consulting engagement, a training course or a question? Book a discovery call or contact Vision Human Consulting by form, email (contact@visionhumanconsulting.com) or phone (+33 6 84 37 60 62)."
+    },
+    "badge": "Contact",
+    "title": "Contact us",
+    "intro": "Would you like to discuss a consulting engagement, organise a training course or find out more? Use the form below, book a call directly, or email us.",
+    "booking": {
+      "title": "Book a discovery call",
+      "description": "Pick the slot that suits you. A first, no-commitment conversation to understand your challenges."
+    },
+    "form": {
+      "title": "Contact form",
+      "nameLabel": "Full name",
+      "companyLabel": "Company / institution",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "subjectLabel": "Your enquiry is about",
+      "subjects": ["A consulting engagement", "A training course", "Something else"],
+      "messageLabel": "Message",
+      "messagePlaceholder": "Describe your context and challenges in a few lines.",
+      "requiredHint": "Required fields",
+      "submitLabel": "Send your request",
+      "sendingLabel": "Sending…",
+      "successTitle": "Thank you, your message has been sent.",
+      "successText": "We will get back to you as soon as possible.",
+      "errorText": "Your message could not be sent. You can email us directly at",
+      "consent": "The information collected through this form is used solely to answer your request and follow up on your exchanges with Vision Human Consulting. You may exercise your rights of access, rectification, erasure, restriction or objection by writing to contact@visionhumanconsulting.com."
+    },
+    "coordinatesTitle": "Contact details",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "linkedinLabel": "LinkedIn",
+    "addressLabel": "Based in"
+  },
+  "cookieConsent": {
+    "badge": "Your privacy matters",
+    "badgeDescription": "You choose what is measured.",
+    "title": "Cookie preferences",
+    "description": "Essential cookies make the site work. You can enable audience measurement cookies to help us improve it. You can change this at any time.",
+    "toggles": {
+      "essential": {
+        "title": "Essential",
+        "description": "Required for the site to work (language, preferences).",
+        "alwaysOnLabel": "Always on",
+        "requiredLabel": "Required"
+      },
+      "analytics": {
+        "title": "Audience measurement",
+        "description": "Measures visits and performance via Google Analytics."
+      },
+      "ariaLabelPrefix": "Enable"
+    },
+    "footer": {
+      "localStorageCopy": "Your preferences are stored locally in your browser.",
+      "readMoreCopy": "Read more in the",
+      "privacyPolicyLabel": "privacy policy"
+    },
+    "buttons": {
+      "essentialOnly": "Essential only",
+      "selectPreferences": "Choose",
+      "saveSelection": "Save",
+      "acceptAll": "Accept all"
+    }
+  },
+  "privacyPage": {
+    "metadata": {
+      "title": "Privacy Policy | Vision Human Consulting",
+      "description": "How Vision Human Consulting (VEORA REAL ESTATE) processes personal data submitted through the website, the contact form and appointment booking."
+    },
+    "badge": "Privacy",
+    "title": "Privacy policy",
+    "intro": "Data collection is limited to what is needed to answer your requests and, if you agree, to measure site traffic.",
+    "lastUpdatedLabel": "Last updated",
+    "backToHomepageLabel": "Back to home",
+    "sections": {
+      "controller": {
+        "title": "Data controller",
+        "intro": "The data controller is VEORA REAL ESTATE, a French EURL trading as Vision Human Consulting, 1180 chemin des Rastines, 06600 Antibes, France. Contact: contact@visionhumanconsulting.com."
+      },
+      "informationCollected": {
+        "title": "Information collected",
+        "intro": "Only the information you choose to submit is collected.",
+        "bullets": [
+          { "label": "Contact form:", "text": "name, company, email, phone, subject and message." },
+          { "label": "Appointment booking:", "text": "name, email and information submitted via Calendly to arrange the call." },
+          { "label": "Audience measurement:", "text": "aggregated traffic data, only if you enable it." }
+        ]
+      },
+      "usage": {
+        "title": "Purposes",
+        "bullets": [
+          "Answering requests sent to Vision Human Consulting.",
+          "Following up on exchanges and the business relationship.",
+          "Understanding overall site traffic and improving the site."
+        ]
+      },
+      "retention": {
+        "title": "Retention",
+        "intro": "Data is kept no longer than necessary for the purposes for which it was collected, subject to applicable legal retention obligations."
+      },
+      "sharing": {
+        "title": "Sharing and your rights",
+        "bullets": [
+          "Data is accessible only to authorised people and service providers (hosting, form, booking, audience measurement).",
+          "No personal data is sold to third parties.",
+          "Under the GDPR and the French Data Protection Act, you have the right of access, rectification, erasure, restriction, objection and, where applicable, portability, exercisable at contact@visionhumanconsulting.com.",
+          "You may lodge a complaint with the CNIL (French data protection authority)."
+        ]
+      }
+    }
+  },
+  "termsPage": {
+    "metadata": {
+      "title": "Legal Notice | Vision Human Consulting",
+      "description": "Legal notice for visionhumanconsulting.com, published by VEORA REAL ESTATE (Vision Human Consulting), Antibes, France."
+    },
+    "badge": "Legal notice",
+    "title": "Legal notice",
+    "intro": "Legal information about visionhumanconsulting.com and its publisher.",
+    "lastUpdatedLabel": "Last updated",
+    "backToHomepageLabel": "Back to home",
+    "sections": [
+      {
+        "title": "1. Publisher",
+        "paragraphs": [
+          "visionhumanconsulting.com is published by VEORA REAL ESTATE, a French single-member limited liability company (EURL) with share capital of €200.",
+          "Registered office: 1180 chemin des Rastines – 06600 Antibes – France. SIREN: 107 361 677. SIRET: 107 361 677 00019. RCS Antibes: 107 361 677. EU VAT number: FR35 107361677.",
+          "Trading name: Vision Human Consulting. Phone: +33 6 84 37 60 62. Email: contact@visionhumanconsulting.com.",
+          "The publication director is Karen Schenck, as manager of VEORA REAL ESTATE."
+        ]
+      },
+      {
+        "title": "2. Hosting",
+        "paragraphs": [
+          "The site is hosted by OVH SAS, 2 rue Kellermann, 59100 Roubaix – France. Phone: 1007."
+        ]
+      },
+      {
+        "title": "3. Intellectual property",
+        "paragraphs": [
+          "All content on visionhumanconsulting.com, including text, graphics, logo, photographs, illustrations and downloadable documents, is protected by applicable intellectual property law.",
+          "Any reproduction, representation, modification, adaptation or use, in whole or in part, without the prior written consent of VEORA REAL ESTATE is prohibited, subject to the exceptions provided by law."
+        ]
+      },
+      {
+        "title": "4. Liability",
+        "paragraphs": [
+          "The information on this site presents the activities and services of Vision Human Consulting. VEORA REAL ESTATE strives to keep it accurate and up to date but cannot guarantee the absence of errors, omissions or temporary unavailability.",
+          "The information is provided for general purposes and is not a substitute for an analysis or advice tailored to the particular situation of a company or organisation."
+        ]
+      },
+      {
+        "title": "5. Personal data",
+        "paragraphs": [
+          "The data controller is VEORA REAL ESTATE, trading as Vision Human Consulting. Data collected is used to answer requests and follow up on exchanges and the business relationship. It is not sold to third parties.",
+          "Under the GDPR and the French Data Protection Act, you have the right of access, rectification, erasure, restriction and objection and, where applicable, portability, exercisable at contact@visionhumanconsulting.com. You may also lodge a complaint with the CNIL. See also the privacy policy."
+        ]
+      },
+      {
+        "title": "6. Cookies",
+        "paragraphs": [
+          "The site may use cookies or other trackers required for it to work and, where applicable, audience measurement tools. Non-essential cookies are only set after the user's consent, which can be given, refused or changed at any time via the cookie management tool on the site."
+        ]
+      },
+      {
+        "title": "7. Links",
+        "paragraphs": [
+          "The site may contain links to external sites or resources. VEORA REAL ESTATE has no control over their content and cannot be held responsible for the information, content or services they offer."
+        ]
+      },
+      {
+        "title": "8. Governing law",
+        "paragraphs": [
+          "visionhumanconsulting.com and this legal notice are governed by French law."
+        ]
+      }
+    ]
+  }
+}
