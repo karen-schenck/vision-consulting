@@ -199,16 +199,16 @@ export function LandingPageContent({ latestPosts = [] }: { latestPosts?: Insight
       {/* ── Founder ────────────────────────────────────────────────────── */}
       <section className="site-container py-20 lg:py-28">
         <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-20">
-          <Reveal className="relative">
+          <Reveal className="relative mx-auto w-full max-w-md">
             <div aria-hidden="true" className="absolute -left-4 -top-4 h-full w-full border border-gold/60" />
             <img
-              src={assetPath(content.aboutPage.imageSrc)}
-              alt={content.aboutPage.imageAlt}
-              width={1400}
-              height={933}
+              src={assetPath(home.founder.imageSrc)}
+              alt={home.founder.imageAlt}
+              width={460}
+              height={576}
               loading="lazy"
               decoding="async"
-              className="relative aspect-[4/3] w-full rounded-sm object-cover"
+              className="relative aspect-[4/5] w-full rounded-sm object-cover"
             />
           </Reveal>
           <div>

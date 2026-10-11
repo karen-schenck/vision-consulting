@@ -7,6 +7,7 @@ import { BookingCta } from "@/components/landing/booking-cta"
 import { SectionHeading } from "@/components/sections/section-heading"
 import { FlowLines } from "@/components/brand/vhc-mark"
 import { useLandingContent } from "@/components/providers/landing-content-provider"
+import { assetPath } from "@/lib/asset-path"
 
 export function AboutPageContent() {
   const { content, locale } = useLandingContent()
@@ -30,6 +31,18 @@ export function AboutPageContent() {
             <SectionHeading eyebrow={page.founder.title} title={page.founder.name} />
             <Reveal>
               <p className="mt-3 text-[12px] font-bold uppercase tracking-[0.2em] text-accent">{home.founder.role}</p>
+            </Reveal>
+            <Reveal className="relative mt-10 max-w-sm">
+              <div aria-hidden="true" className="absolute -left-4 -top-4 h-full w-full border border-gold/60" />
+              <img
+                src={assetPath(home.founder.imageSrc)}
+                alt={home.founder.imageAlt}
+                width={460}
+                height={576}
+                loading="lazy"
+                decoding="async"
+                className="relative aspect-[4/5] w-full rounded-sm object-cover"
+              />
             </Reveal>
           </div>
           <Reveal className="space-y-6 text-[17px] leading-relaxed text-foreground/80">
