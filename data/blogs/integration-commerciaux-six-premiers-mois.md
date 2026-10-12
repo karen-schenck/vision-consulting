@@ -158,12 +158,12 @@ Le bilan du sixième mois porte sur les résultats, les compétences acquises et
 
 Voici un plan d’intégration type sur six mois, à ajuster à votre contexte :
 
-| Période Objectif Rituel managérial |
-| --- |
-| Semaine 1 Comprendre l'offre et les clients Point quotidien de 15 min |
-| Mois 1 Premiers rendez-vous accompagnés Débrief après chaque rendez-vous |
-| Mois 3 Autonomie sur un portefeuille Revue hebdomadaire des indicateurs |
-| Mois 6 Objectifs complets Entretien de bilan et plan de progression |
+| Période | Objectif | Rituel managérial |
+| --- | --- | --- |
+| Semaine 1 | Comprendre l’offre et les clients | Point quotidien de 15 min |
+| Mois 1 | Premiers rendez-vous accompagnés | Débrief après chaque rendez-vous |
+| Mois 3 | Autonomie sur un portefeuille | Revue hebdomadaire des indicateurs |
+| Mois 6 | Objectifs complets | Entretien de bilan et plan de progression |
 
 ## Faire de l’accompagnement terrain un temps de travail prévu
 
