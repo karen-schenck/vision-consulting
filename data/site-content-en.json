@@ -52,6 +52,7 @@
       "logoAlt": "Vision Human Consulting, consulting & training in Antibes"
     },
     "navLinks": [
+      { "label": "Home", "href": "/" },
       {
         "label": "Consulting",
         "href": "/conseil",
@@ -144,7 +145,7 @@
     "hero": {
       "eyebrow": "Consulting & training · Antibes · French Riviera",
       "title": "Reveal the invisible. Create impact.",
-      "subtitle": "Vision Human Consulting helps leaders and sales teams pinpoint what is really holding performance back (organisation, decisions, practices, customer experience) and turn those friction points into lasting levers for action.",
+      "subtitle": "Vision Human Consulting supports leaders and sales teams in identifying what holds back their performance (organisation, decisions, practices, customer experience) and helps them turn it into lasting levers for growth, through an approach combining strategic consulting, hands-on support and team training.",
       "primaryCtaLabel": "Book a discovery call",
       "secondaryCtaLabel": "Discover the ODC method",
       "trust": [
@@ -333,7 +334,7 @@
         "tier": "Vision",
         "title": "Strategic audit",
         "tagline": "Reveal the critical gaps between strategic intent and organisational reality.",
-        "summary": "A structured audit designed to reveal the critical gaps between strategic intent and organisational reality.",
+        "summary": "A structured audit to identify the gaps that hinder performance and set the priorities for action.",
         "objective": "Identify the dysfunctions holding back the organisation, decisions, sales practices and customer experience.",
         "duration": "Depends on scope",
         "signals": [
@@ -363,7 +364,7 @@
         "tier": "Impact",
         "title": "Targeted transformation",
         "tagline": "Turn audit findings into concrete action, in two weeks.",
-        "summary": "A two-week engagement to turn the findings of the audit into concrete, directly applicable actions.",
+        "summary": "A two-week engagement to turn the identified priorities into concrete, directly applicable operational improvements.",
         "objective": "Act on the identified blocking points, clarify priorities and implement the changes needed for a lasting improvement in how the organisation works.",
         "duration": "2 weeks",
         "signals": [
@@ -393,7 +394,7 @@
         "tier": "Signature",
         "title": "Sustainable executive alignment",
         "tagline": "Supporting leadership teams through complex governance, organisational or transformation challenges.",
-        "summary": "A tailored engagement for leadership teams facing complex governance, organisational or transformation challenges.",
+        "summary": "A tailored engagement to help leadership teams clarify their strategic trade-offs and lead the necessary changes over time.",
         "objective": "Align decisions, structure the necessary actions and make change last.",
         "duration": "Tailored",
         "signals": [
@@ -671,7 +672,7 @@
     "badge": "Privacy",
     "title": "Privacy policy",
     "intro": "Data collection is limited to what is needed to answer your requests and, if you agree, to measure site traffic.",
-    "lastUpdatedLabel": "Last updated",
+    "lastUpdatedLabel": "Last updated:",
     "backToHomepageLabel": "Back to home",
     "sections": {
       "controller": {
@@ -718,7 +719,7 @@
     "badge": "Legal notice",
     "title": "Legal notice",
     "intro": "Legal information about visionhumanconsulting.com and its publisher.",
-    "lastUpdatedLabel": "Last updated",
+    "lastUpdatedLabel": "Last updated:",
     "backToHomepageLabel": "Back to home",
     "sections": [
       {

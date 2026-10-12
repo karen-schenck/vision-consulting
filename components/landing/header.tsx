@@ -104,8 +104,8 @@ export function Header() {
           aria-label={content.header.brand.name}
           className="flex shrink-0 items-center"
         >
-          <VhcLogo className="hidden sm:inline-flex" />
-          <VhcLogo className="sm:hidden" compact />
+          <VhcLogo className="hidden sm:inline-flex lg:hidden xl:inline-flex" />
+          <VhcLogo className="sm:hidden lg:inline-flex xl:hidden" compact />
         </Link>
 
         <NavigationMenu viewport={false} className="hidden lg:flex lg:flex-none">
@@ -117,7 +117,7 @@ export function Header() {
                     <DropdownMenuTrigger asChild>
                       <button
                         type="button"
-                        className="group inline-flex h-9 items-center rounded-sm bg-transparent px-3 text-[13px] font-semibold tracking-[0.02em] text-primary-foreground/80 outline-none transition-colors hover:text-gold focus:text-gold focus-visible:ring-2 focus-visible:ring-gold/60 data-[state=open]:text-gold"
+                        className="group inline-flex h-9 items-center rounded-sm bg-transparent px-2 xl:px-3 text-[13px] font-semibold tracking-[0.02em] text-primary-foreground/80 outline-none transition-colors hover:text-gold focus:text-gold focus-visible:ring-2 focus-visible:ring-gold/60 data-[state=open]:text-gold"
                       >
                         {item.label}
                         <ChevronDown
@@ -152,7 +152,7 @@ export function Header() {
                       href={localizePath(item.href, locale)}
                       className={cn(
                         navigationMenuTriggerStyle(),
-                        "h-9 rounded-sm bg-transparent px-3 text-[13px] font-semibold tracking-[0.02em] text-primary-foreground/80 hover:bg-transparent hover:text-gold focus:bg-transparent focus:text-gold data-[active=true]:bg-transparent data-[active=true]:text-gold"
+                        "h-9 rounded-sm bg-transparent px-2 xl:px-3 text-[13px] font-semibold tracking-[0.02em] text-primary-foreground/80 hover:bg-transparent hover:text-gold focus:bg-transparent focus:text-gold data-[active=true]:bg-transparent data-[active=true]:text-gold"
                       )}
                     >
                       {item.label}
@@ -166,7 +166,7 @@ export function Header() {
 
         <div className="hidden items-center gap-3 lg:flex">
           <LocaleSwitcher />
-          <Link href={ctaHref} prefetch={false} className="btn btn-gold px-5 py-3">
+          <Link href={ctaHref} prefetch={false} className="btn btn-gold whitespace-nowrap px-4 py-3 xl:px-5">
             {content.header.ctaLabel}
           </Link>
         </div>

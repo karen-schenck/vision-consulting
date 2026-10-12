@@ -85,6 +85,7 @@
       "logoAlt": "Vision Human Consulting, conseil & formation à Antibes"
     },
     "navLinks": [
+      { "label": "Accueil", "href": "/" },
       {
         "label": "Conseil",
         "href": "/conseil",
@@ -182,7 +183,7 @@
     "hero": {
       "eyebrow": "Conseil & formation · Antibes · Côte d'Azur",
       "title": "Révéler l'invisible. Créer l'impact.",
-      "subtitle": "Vision Human Consulting aide les dirigeants et les équipes commerciales à identifier ce qui freine réellement leur performance (organisation, décisions, pratiques, expérience client) et à transformer ces points de friction en leviers d'action durables.",
+      "subtitle": "Vision Human Consulting accompagne les dirigeants et les équipes commerciales dans l'identification des freins à leur performance (organisation, décisions, pratiques, expérience client) et les aide à les transformer en leviers de croissance durables, grâce à une approche associant conseil stratégique, accompagnement opérationnel et formation des équipes.",
       "primaryCtaLabel": "Réserver un échange découverte",
       "secondaryCtaLabel": "Découvrir la méthode ODC",
       "secondaryCtaHref": "/methodes",
@@ -399,7 +400,7 @@
         "tier": "Vision",
         "title": "Audit stratégique",
         "tagline": "Mettre en évidence les écarts critiques entre intention stratégique et réalité organisationnelle.",
-        "summary": "Un audit structuré destiné à mettre en évidence les écarts critiques entre intention stratégique et réalité organisationnelle.",
+        "summary": "Un audit structuré pour identifier les décalages qui entravent la performance et définir les priorités d'action.",
         "objective": "Identifier les dysfonctionnements qui freinent l'organisation, les décisions, les pratiques commerciales et l'expérience client.",
         "duration": "Selon le périmètre",
         "signals": [
@@ -429,7 +430,7 @@
         "tier": "Impact",
         "title": "Transformation ciblée",
         "tagline": "Transformer les constats de l'audit en actions concrètes, en deux semaines.",
-        "summary": "Un accompagnement de 2 semaines pour transformer les constats issus de l'audit en actions concrètes et directement applicables.",
+        "summary": "Un accompagnement de deux semaines pour traduire les priorités identifiées en améliorations opérationnelles concrètes et directement applicables.",
         "objective": "Agir sur les points de blocage identifiés, clarifier les priorités et mettre en œuvre les changements nécessaires pour une amélioration durable du fonctionnement de l'organisation.",
         "duration": "2 semaines",
         "signals": [
@@ -459,7 +460,7 @@
         "tier": "Signature",
         "title": "Alignement exécutif durable",
         "tagline": "Accompagner les directions face aux enjeux complexes de gouvernance, d'organisation ou de transformation.",
-        "summary": "Une intervention sur mesure destinée aux directions confrontées à des enjeux complexes de gouvernance, d'organisation ou de transformation.",
+        "summary": "Une intervention sur mesure pour aider les directions à clarifier leurs arbitrages stratégiques et à conduire les évolutions nécessaires dans la durée.",
         "objective": "Aligner les décisions, structurer les actions nécessaires et inscrire les changements dans la durée.",
         "duration": "Sur mesure",
         "signals": [
@@ -742,7 +743,7 @@
     "badge": "Confidentialité",
     "title": "Politique de confidentialité",
     "intro": "La collecte de données est limitée à ce qui est nécessaire pour répondre à vos demandes et, si vous l'acceptez, mesurer l'audience du site.",
-    "lastUpdatedLabel": "Dernière mise à jour",
+    "lastUpdatedLabel": "Dernière mise à jour :",
     "lastUpdatedDate": "2026-10-11",
     "backToHomepageLabel": "Retour à l'accueil",
     "email": "contact@visionhumanconsulting.com",
@@ -791,7 +792,7 @@
     "badge": "Mentions légales",
     "title": "Mentions légales",
     "intro": "Informations légales relatives au site visionhumanconsulting.com et à son éditeur.",
-    "lastUpdatedLabel": "Dernière mise à jour",
+    "lastUpdatedLabel": "Dernière mise à jour :",
     "lastUpdatedDate": "2026-10-11",
     "backToHomepageLabel": "Retour à l'accueil",
     "email": "contact@visionhumanconsulting.com",

@@ -26,7 +26,7 @@ export function LegalPageContent({ locale, content, page }: LegalPageContentProp
         <div className="mx-auto max-w-3xl rounded-[var(--radius-panel)] bg-panel p-6 sm:p-10 lg:p-12">
           <div className="mb-9 flex flex-wrap items-center justify-between gap-4 border-b border-border pb-6 text-sm text-muted-foreground">
             <span>
-              {pageContent.lastUpdatedLabel}: {pageContent.lastUpdatedDate}
+              {pageContent.lastUpdatedLabel} {pageContent.lastUpdatedDate}
             </span>
             <Link
               href={localizePath('/', locale)}
